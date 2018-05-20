@@ -4,3 +4,4 @@ yarn-error.log
 npm-debug.log
 addresses.json
 /.vscode
+.idea

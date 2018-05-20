@@ -135,24 +135,24 @@
       "type": "function"
     }
   ],
-  "bytecode": "0x6060604052341561000f57600080fd5b60405160408061099883398101604052808051906020019091908051906020019091905050816000806101000a81548173ffffffffffffffffffffffffffffffffffffffff021916908373ffffffffffffffffffffffffffffffffffffffff1602179055508060018190555032600260006101000a81548173ffffffffffffffffffffffffffffffffffffffff021916908373ffffffffffffffffffffffffffffffffffffffff16021790555033600360006101000a81548173ffffffffffffffffffffffffffffffffffffffff021916908373ffffffffffffffffffffffffffffffffffffffff1602179055506000600360146101000a81548160ff0219169083600281111561011c57fe5b02179055505050610866806101326000396000f300606060405260043610610083576000357c0100000000000000000000000000000000000000000000000000000000900463ffffffff168063556a6121146100885780636a3e83b3146100b1578063b4fd729614610109578063c19d93fb1461015e578063ef47243d14610195578063f5ff5c76146101aa578063fc0c546a146101ff575b600080fd5b341561009357600080fd5b61009b610254565b6040518082815260200191505060405180910390f35b34156100bc57600080fd5b6100ef600480803560ff16906020019091908035600019169060200190919080356000191690602001909190505061025a565b604051808215151515815260200191505060405180910390f35b341561011457600080fd5b61011c61055e565b604051808273ffffffffffffffffffffffffffffffffffffffff1673ffffffffffffffffffffffffffffffffffffffff16815260200191505060405180910390f35b341561016957600080fd5b610171610584565b6040518082600281111561018157fe5b60ff16815260200191505060405180910390f35b34156101a057600080fd5b6101a8610597565b005b34156101b557600080fd5b6101bd6107ef565b604051808273ffffffffffffffffffffffffffffffffffffffff1673ffffffffffffffffffffffffffffffffffffffff16815260200191505060405180910390f35b341561020a57600080fd5b610212610815565b604051808273ffffffffffffffffffffffffffffffffffffffff1673ffffffffffffffffffffffffffffffffffffffff16815260200191505060405180910390f35b60015481565b60006001600281111561026957fe5b600360149054906101000a900460ff16600281111561028457fe5b14151561029057600080fd5b600260009054906101000a900473ffffffffffffffffffffffffffffffffffffffff1673ffffffffffffffffffffffffffffffffffffffff16600130604051808273ffffffffffffffffffffffffffffffffffffffff1673ffffffffffffffffffffffffffffffffffffffff166c01000000000000000000000000028152601401915050604051809103902060405180807f19457468657265756d205369676e6564204d6573736167653a0a333200000000815250601c0182600019166000191681526020019150506040518091039020868686604051600081526020016040526040518085600019166000191681526020018460ff1660ff1681526020018360001916600019168152602001826000191660001916815260200194505050505060206040516020810390808403906000865af115156103cf57600080fd5b50506020604051035173ffffffffffffffffffffffffffffffffffffffff161415156103fa57600080fd5b6000809054906101000a900473ffffffffffffffffffffffffffffffffffffffff1673ffffffffffffffffffffffffffffffffffffffff1663095ea7b3600360009054906101000a900473ffffffffffffffffffffffffffffffffffffffff166001546040518363ffffffff167c0100000000000000000000000000000000000000000000000000000000028152600401808373ffffffffffffffffffffffffffffffffffffffff1673ffffffffffffffffffffffffffffffffffffffff16815260200182815260200192505050602060405180830381600087803b15156104e157600080fd5b5af115156104ee57600080fd5b50505060405180519050151561050357600080fd5b6002600360146101000a81548160ff0219169083600281111561052257fe5b02179055507fc3feda8a94e1e6d26005ad24f78b1e773162175a4cfe587ffa6513036f1b17f560405160405180910390a1600190509392505050565b600260009054906101000a900473ffffffffffffffffffffffffffffffffffffffff1681565b600360149054906101000a900460ff1681565b600060028111156105a457fe5b600360149054906101000a900460ff1660028111156105bf57fe5b1415156105cb57600080fd5b6000809054906101000a900473ffffffffffffffffffffffffffffffffffffffff1673ffffffffffffffffffffffffffffffffffffffff166323b872dd600260009054906101000a900473ffffffffffffffffffffffffffffffffffffffff16306001546040518463ffffffff167c0100000000000000000000000000000000000000000000000000000000028152600401808473ffffffffffffffffffffffffffffffffffffffff1673ffffffffffffffffffffffffffffffffffffffff1681526020018373ffffffffffffffffffffffffffffffffffffffff1673ffffffffffffffffffffffffffffffffffffffff1681526020018281526020019350505050602060405180830381600087803b15156106e657600080fd5b5af115156106f357600080fd5b50505060405180519050151561070857600080fd5b600360009054906101000a900473ffffffffffffffffffffffffffffffffffffffff1673ffffffffffffffffffffffffffffffffffffffff1663ef47243d6040518163ffffffff167c0100000000000000000000000000000000000000000000000000000000028152600401600060405180830381600087803b151561078d57600080fd5b5af1151561079a57600080fd5b5050506001600360146101000a81548160ff021916908360028111156107bc57fe5b02179055507f416215c90ce8ab9c8cf26413706dc28a3d64986c56f85cd12a17de69b234776160405160405180910390a1565b600360009054906101000a900473ffffffffffffffffffffffffffffffffffffffff1681565b6000809054906101000a900473ffffffffffffffffffffffffffffffffffffffff16815600a165627a7a72305820a87db97d76934d8638ae70f2c80254150d7817fd1b60d11a846afedf46ebc3f80029",
-  "deployedBytecode": "0x606060405260043610610083576000357c0100000000000000000000000000000000000000000000000000000000900463ffffffff168063556a6121146100885780636a3e83b3146100b1578063b4fd729614610109578063c19d93fb1461015e578063ef47243d14610195578063f5ff5c76146101aa578063fc0c546a146101ff575b600080fd5b341561009357600080fd5b61009b610254565b6040518082815260200191505060405180910390f35b34156100bc57600080fd5b6100ef600480803560ff16906020019091908035600019169060200190919080356000191690602001909190505061025a565b604051808215151515815260200191505060405180910390f35b341561011457600080fd5b61011c61055e565b604051808273ffffffffffffffffffffffffffffffffffffffff1673ffffffffffffffffffffffffffffffffffffffff16815260200191505060405180910390f35b341561016957600080fd5b610171610584565b6040518082600281111561018157fe5b60ff16815260200191505060405180910390f35b34156101a057600080fd5b6101a8610597565b005b34156101b557600080fd5b6101bd6107ef565b604051808273ffffffffffffffffffffffffffffffffffffffff1673ffffffffffffffffffffffffffffffffffffffff16815260200191505060405180910390f35b341561020a57600080fd5b610212610815565b604051808273ffffffffffffffffffffffffffffffffffffffff1673ffffffffffffffffffffffffffffffffffffffff16815260200191505060405180910390f35b60015481565b60006001600281111561026957fe5b600360149054906101000a900460ff16600281111561028457fe5b14151561029057600080fd5b600260009054906101000a900473ffffffffffffffffffffffffffffffffffffffff1673ffffffffffffffffffffffffffffffffffffffff16600130604051808273ffffffffffffffffffffffffffffffffffffffff1673ffffffffffffffffffffffffffffffffffffffff166c01000000000000000000000000028152601401915050604051809103902060405180807f19457468657265756d205369676e6564204d6573736167653a0a333200000000815250601c0182600019166000191681526020019150506040518091039020868686604051600081526020016040526040518085600019166000191681526020018460ff1660ff1681526020018360001916600019168152602001826000191660001916815260200194505050505060206040516020810390808403906000865af115156103cf57600080fd5b50506020604051035173ffffffffffffffffffffffffffffffffffffffff161415156103fa57600080fd5b6000809054906101000a900473ffffffffffffffffffffffffffffffffffffffff1673ffffffffffffffffffffffffffffffffffffffff1663095ea7b3600360009054906101000a900473ffffffffffffffffffffffffffffffffffffffff166001546040518363ffffffff167c0100000000000000000000000000000000000000000000000000000000028152600401808373ffffffffffffffffffffffffffffffffffffffff1673ffffffffffffffffffffffffffffffffffffffff16815260200182815260200192505050602060405180830381600087803b15156104e157600080fd5b5af115156104ee57600080fd5b50505060405180519050151561050357600080fd5b6002600360146101000a81548160ff0219169083600281111561052257fe5b02179055507fc3feda8a94e1e6d26005ad24f78b1e773162175a4cfe587ffa6513036f1b17f560405160405180910390a1600190509392505050565b600260009054906101000a900473ffffffffffffffffffffffffffffffffffffffff1681565b600360149054906101000a900460ff1681565b600060028111156105a457fe5b600360149054906101000a900460ff1660028111156105bf57fe5b1415156105cb57600080fd5b6000809054906101000a900473ffffffffffffffffffffffffffffffffffffffff1673ffffffffffffffffffffffffffffffffffffffff166323b872dd600260009054906101000a900473ffffffffffffffffffffffffffffffffffffffff16306001546040518463ffffffff167c0100000000000000000000000000000000000000000000000000000000028152600401808473ffffffffffffffffffffffffffffffffffffffff1673ffffffffffffffffffffffffffffffffffffffff1681526020018373ffffffffffffffffffffffffffffffffffffffff1673ffffffffffffffffffffffffffffffffffffffff1681526020018281526020019350505050602060405180830381600087803b15156106e657600080fd5b5af115156106f357600080fd5b50505060405180519050151561070857600080fd5b600360009054906101000a900473ffffffffffffffffffffffffffffffffffffffff1673ffffffffffffffffffffffffffffffffffffffff1663ef47243d6040518163ffffffff167c0100000000000000000000000000000000000000000000000000000000028152600401600060405180830381600087803b151561078d57600080fd5b5af1151561079a57600080fd5b5050506001600360146101000a81548160ff021916908360028111156107bc57fe5b02179055507f416215c90ce8ab9c8cf26413706dc28a3d64986c56f85cd12a17de69b234776160405160405180910390a1565b600360009054906101000a900473ffffffffffffffffffffffffffffffffffffffff1681565b6000809054906101000a900473ffffffffffffffffffffffffffffffffffffffff16815600a165627a7a72305820a87db97d76934d8638ae70f2c80254150d7817fd1b60d11a846afedf46ebc3f80029",
-  "sourceMap": "103:1120:2:-;;;385:219;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;461:6;447:5;;:21;;;;;;;;;;;;;;;;;;489:9;478:8;:20;;;;519:9;508:8;;:20;;;;;;;;;;;;;;;;;;552:10;538:5;;:25;;;;;;;;;;;;;;;;;;581:16;573:5;;:24;;;;;;;;;;;;;;;;;;;;;;;;385:219;;103:1120;;;;;;",
-  "deployedSourceMap": "103:1120:2:-;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;224:20;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;840:381;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;250:23;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;303:21;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;610:224;;;;;;;;;;;;;;279:18;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;200;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;224:20;;;;:::o;840:381::-;908:4;941:15;932:24;;;;;;;;:5;;;;;;;;;;;:24;;;;;;;;;924:33;;;;;;;;1061:8;;;;;;;;;;;975:94;;:82;1041:4;1031:15;;;;;;;;;;;;;;;;;;;;;;;;985:62;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;1049:1;1052;1055;975:82;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;:94;;;967:103;;;;;;;;1088:5;;;;;;;;;;;:13;;;1110:5;;;;;;;;;;;1118:8;;1088:39;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;1080:48;;;;;;;;1146:18;1138:5;;:26;;;;;;;;;;;;;;;;;;;;;;;;1179:14;;;;;;;;;;1210:4;1203:11;;840:381;;;;;:::o;250:23::-;;;;;;;;;;;;;:::o;303:21::-;;;;;;;;;;;;;:::o;610:224::-;663:16;654:25;;;;;;;;:5;;;;;;;;;;;:25;;;;;;;;;646:34;;;;;;;;698:5;;;;;;;;;;;:18;;;717:8;;;;;;;;;;;727:4;733:8;;698:44;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;690:53;;;;;;;;753:5;;;;;;;;;;;:13;;;:15;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;786;778:5;;:23;;;;;;;;;;;;;;;;;;;;;;;;816:11;;;;;;;;;;610:224::o;279:18::-;;;;;;;;;;;;;:::o;200:::-;;;;;;;;;;;;;:::o",
+  "bytecode": "0x608060405234801561001057600080fd5b50604051604080610a138339810180604052810190808051906020019092919080519060200190929190505050816000806101000a81548173ffffffffffffffffffffffffffffffffffffffff021916908373ffffffffffffffffffffffffffffffffffffffff1602179055508060018190555032600260006101000a81548173ffffffffffffffffffffffffffffffffffffffff021916908373ffffffffffffffffffffffffffffffffffffffff16021790555033600360006101000a81548173ffffffffffffffffffffffffffffffffffffffff021916908373ffffffffffffffffffffffffffffffffffffffff1602179055506000600360146101000a81548160ff0219169083600281111561012557fe5b021790555050506108d88061013b6000396000f300608060405260043610610083576000357c0100000000000000000000000000000000000000000000000000000000900463ffffffff168063556a6121146100885780636a3e83b3146100b3578063b4fd729614610117578063c19d93fb1461016e578063ef47243d146101a7578063f5ff5c76146101be578063fc0c546a14610215575b600080fd5b34801561009457600080fd5b5061009d61026c565b6040518082815260200191505060405180910390f35b3480156100bf57600080fd5b506100fd600480360381019080803560ff16906020019092919080356000191690602001909291908035600019169060200190929190505050610272565b604051808215151515815260200191505060405180910390f35b34801561012357600080fd5b5061012c6105a2565b604051808273ffffffffffffffffffffffffffffffffffffffff1673ffffffffffffffffffffffffffffffffffffffff16815260200191505060405180910390f35b34801561017a57600080fd5b506101836105c8565b6040518082600281111561019357fe5b60ff16815260200191505060405180910390f35b3480156101b357600080fd5b506101bc6105db565b005b3480156101ca57600080fd5b506101d3610861565b604051808273ffffffffffffffffffffffffffffffffffffffff1673ffffffffffffffffffffffffffffffffffffffff16815260200191505060405180910390f35b34801561022157600080fd5b5061022a610887565b604051808273ffffffffffffffffffffffffffffffffffffffff1673ffffffffffffffffffffffffffffffffffffffff16815260200191505060405180910390f35b60015481565b60006001600281111561028157fe5b600360149054906101000a900460ff16600281111561029c57fe5b1415156102a857600080fd5b600260009054906101000a900473ffffffffffffffffffffffffffffffffffffffff1673ffffffffffffffffffffffffffffffffffffffff16600130604051808273ffffffffffffffffffffffffffffffffffffffff1673ffffffffffffffffffffffffffffffffffffffff166c01000000000000000000000000028152601401915050604051809103902060405180807f19457468657265756d205369676e6564204d6573736167653a0a333200000000815250601c0182600019166000191681526020019150506040518091039020868686604051600081526020016040526040518085600019166000191681526020018460ff1660ff1681526020018360001916600019168152602001826000191660001916815260200194505050505060206040516020810390808403906000865af11580156103ed573d6000803e3d6000fd5b5050506020604051035173ffffffffffffffffffffffffffffffffffffffff1614151561041957600080fd5b6000809054906101000a900473ffffffffffffffffffffffffffffffffffffffff1673ffffffffffffffffffffffffffffffffffffffff1663095ea7b3600360009054906101000a900473ffffffffffffffffffffffffffffffffffffffff166001546040518363ffffffff167c0100000000000000000000000000000000000000000000000000000000028152600401808373ffffffffffffffffffffffffffffffffffffffff1673ffffffffffffffffffffffffffffffffffffffff16815260200182815260200192505050602060405180830381600087803b15801561050157600080fd5b505af1158015610515573d6000803e3d6000fd5b505050506040513d602081101561052b57600080fd5b8101908080519060200190929190505050151561054757600080fd5b6002600360146101000a81548160ff0219169083600281111561056657fe5b02179055507fc3feda8a94e1e6d26005ad24f78b1e773162175a4cfe587ffa6513036f1b17f560405160405180910390a1600190509392505050565b600260009054906101000a900473ffffffffffffffffffffffffffffffffffffffff1681565b600360149054906101000a900460ff1681565b600060028111156105e857fe5b600360149054906101000a900460ff16600281111561060357fe5b14151561060f57600080fd5b6000809054906101000a900473ffffffffffffffffffffffffffffffffffffffff1673ffffffffffffffffffffffffffffffffffffffff166323b872dd600260009054906101000a900473ffffffffffffffffffffffffffffffffffffffff16306001546040518463ffffffff167c0100000000000000000000000000000000000000000000000000000000028152600401808473ffffffffffffffffffffffffffffffffffffffff1673ffffffffffffffffffffffffffffffffffffffff1681526020018373ffffffffffffffffffffffffffffffffffffffff1673ffffffffffffffffffffffffffffffffffffffff1681526020018281526020019350505050602060405180830381600087803b15801561072b57600080fd5b505af115801561073f573d6000803e3d6000fd5b505050506040513d602081101561075557600080fd5b8101908080519060200190929190505050151561077157600080fd5b600360009054906101000a900473ffffffffffffffffffffffffffffffffffffffff1673ffffffffffffffffffffffffffffffffffffffff1663ef47243d6040518163ffffffff167c0100000000000000000000000000000000000000000000000000000000028152600401600060405180830381600087803b1580156107f757600080fd5b505af115801561080b573d6000803e3d6000fd5b505050506001600360146101000a81548160ff0219169083600281111561082e57fe5b02179055507f416215c90ce8ab9c8cf26413706dc28a3d64986c56f85cd12a17de69b234776160405160405180910390a1565b600360009054906101000a900473ffffffffffffffffffffffffffffffffffffffff1681565b6000809054906101000a900473ffffffffffffffffffffffffffffffffffffffff16815600a165627a7a7230582051ff44f5efe2fda3e79d90ee982ede12f7a940b8c959846883922fd47e6d5bac0029",
+  "deployedBytecode": "0x608060405260043610610083576000357c0100000000000000000000000000000000000000000000000000000000900463ffffffff168063556a6121146100885780636a3e83b3146100b3578063b4fd729614610117578063c19d93fb1461016e578063ef47243d146101a7578063f5ff5c76146101be578063fc0c546a14610215575b600080fd5b34801561009457600080fd5b5061009d61026c565b6040518082815260200191505060405180910390f35b3480156100bf57600080fd5b506100fd600480360381019080803560ff16906020019092919080356000191690602001909291908035600019169060200190929190505050610272565b604051808215151515815260200191505060405180910390f35b34801561012357600080fd5b5061012c6105a2565b604051808273ffffffffffffffffffffffffffffffffffffffff1673ffffffffffffffffffffffffffffffffffffffff16815260200191505060405180910390f35b34801561017a57600080fd5b506101836105c8565b6040518082600281111561019357fe5b60ff16815260200191505060405180910390f35b3480156101b357600080fd5b506101bc6105db565b005b3480156101ca57600080fd5b506101d3610861565b604051808273ffffffffffffffffffffffffffffffffffffffff1673ffffffffffffffffffffffffffffffffffffffff16815260200191505060405180910390f35b34801561022157600080fd5b5061022a610887565b604051808273ffffffffffffffffffffffffffffffffffffffff1673ffffffffffffffffffffffffffffffffffffffff16815260200191505060405180910390f35b60015481565b60006001600281111561028157fe5b600360149054906101000a900460ff16600281111561029c57fe5b1415156102a857600080fd5b600260009054906101000a900473ffffffffffffffffffffffffffffffffffffffff1673ffffffffffffffffffffffffffffffffffffffff16600130604051808273ffffffffffffffffffffffffffffffffffffffff1673ffffffffffffffffffffffffffffffffffffffff166c01000000000000000000000000028152601401915050604051809103902060405180807f19457468657265756d205369676e6564204d6573736167653a0a333200000000815250601c0182600019166000191681526020019150506040518091039020868686604051600081526020016040526040518085600019166000191681526020018460ff1660ff1681526020018360001916600019168152602001826000191660001916815260200194505050505060206040516020810390808403906000865af11580156103ed573d6000803e3d6000fd5b5050506020604051035173ffffffffffffffffffffffffffffffffffffffff1614151561041957600080fd5b6000809054906101000a900473ffffffffffffffffffffffffffffffffffffffff1673ffffffffffffffffffffffffffffffffffffffff1663095ea7b3600360009054906101000a900473ffffffffffffffffffffffffffffffffffffffff166001546040518363ffffffff167c0100000000000000000000000000000000000000000000000000000000028152600401808373ffffffffffffffffffffffffffffffffffffffff1673ffffffffffffffffffffffffffffffffffffffff16815260200182815260200192505050602060405180830381600087803b15801561050157600080fd5b505af1158015610515573d6000803e3d6000fd5b505050506040513d602081101561052b57600080fd5b8101908080519060200190929190505050151561054757600080fd5b6002600360146101000a81548160ff0219169083600281111561056657fe5b02179055507fc3feda8a94e1e6d26005ad24f78b1e773162175a4cfe587ffa6513036f1b17f560405160405180910390a1600190509392505050565b600260009054906101000a900473ffffffffffffffffffffffffffffffffffffffff1681565b600360149054906101000a900460ff1681565b600060028111156105e857fe5b600360149054906101000a900460ff16600281111561060357fe5b14151561060f57600080fd5b6000809054906101000a900473ffffffffffffffffffffffffffffffffffffffff1673ffffffffffffffffffffffffffffffffffffffff166323b872dd600260009054906101000a900473ffffffffffffffffffffffffffffffffffffffff16306001546040518463ffffffff167c0100000000000000000000000000000000000000000000000000000000028152600401808473ffffffffffffffffffffffffffffffffffffffff1673ffffffffffffffffffffffffffffffffffffffff1681526020018373ffffffffffffffffffffffffffffffffffffffff1673ffffffffffffffffffffffffffffffffffffffff1681526020018281526020019350505050602060405180830381600087803b15801561072b57600080fd5b505af115801561073f573d6000803e3d6000fd5b505050506040513d602081101561075557600080fd5b8101908080519060200190929190505050151561077157600080fd5b600360009054906101000a900473ffffffffffffffffffffffffffffffffffffffff1673ffffffffffffffffffffffffffffffffffffffff1663ef47243d6040518163ffffffff167c0100000000000000000000000000000000000000000000000000000000028152600401600060405180830381600087803b1580156107f757600080fd5b505af115801561080b573d6000803e3d6000fd5b505050506001600360146101000a81548160ff0219169083600281111561082e57fe5b02179055507f416215c90ce8ab9c8cf26413706dc28a3d64986c56f85cd12a17de69b234776160405160405180910390a1565b600360009054906101000a900473ffffffffffffffffffffffffffffffffffffffff1681565b6000809054906101000a900473ffffffffffffffffffffffffffffffffffffffff16815600a165627a7a7230582051ff44f5efe2fda3e79d90ee982ede12f7a940b8c959846883922fd47e6d5bac0029",
+  "sourceMap": "103:1120:2:-;;;385:219;8:9:-1;5:2;;;30:1;27;20:12;5:2;385:219:2;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;461:6;447:5;;:21;;;;;;;;;;;;;;;;;;489:9;478:8;:20;;;;519:9;508:8;;:20;;;;;;;;;;;;;;;;;;552:10;538:5;;:25;;;;;;;;;;;;;;;;;;581:16;573:5;;:24;;;;;;;;;;;;;;;;;;;;;;;;385:219;;103:1120;;;;;;",
+  "deployedSourceMap": "103:1120:2:-;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;224:20;;8:9:-1;5:2;;;30:1;27;20:12;5:2;224:20:2;;;;;;;;;;;;;;;;;;;;;;;840:381;;8:9:-1;5:2;;;30:1;27;20:12;5:2;840:381:2;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;250:23;;8:9:-1;5:2;;;30:1;27;20:12;5:2;250:23:2;;;;;;;;;;;;;;;;;;;;;;;;;;;303:21;;8:9:-1;5:2;;;30:1;27;20:12;5:2;303:21:2;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;610:224;;8:9:-1;5:2;;;30:1;27;20:12;5:2;610:224:2;;;;;;279:18;;8:9:-1;5:2;;;30:1;27;20:12;5:2;279:18:2;;;;;;;;;;;;;;;;;;;;;;;;;;;200;;8:9:-1;5:2;;;30:1;27;20:12;5:2;200:18:2;;;;;;;;;;;;;;;;;;;;;;;;;;;224:20;;;;:::o;840:381::-;908:4;941:15;932:24;;;;;;;;:5;;;;;;;;;;;:24;;;;;;;;;924:33;;;;;;;;1061:8;;;;;;;;;;;975:94;;:82;1041:4;1031:15;;;;;;;;;;;;;;;;;;;;;;;;985:62;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;1049:1;1052;1055;975:82;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;8:9:-1;5:2;;;45:16;42:1;39;24:38;77:16;74:1;67:27;5:2;975:82:2;;;;;;;;:94;;;967:103;;;;;;;;1088:5;;;;;;;;;;;:13;;;1110:5;;;;;;;;;;;1118:8;;1088:39;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;8:9:-1;5:2;;;30:1;27;20:12;5:2;1088:39:2;;;;8:9:-1;5:2;;;45:16;42:1;39;24:38;77:16;74:1;67:27;5:2;1088:39:2;;;;;;;13:2:-1;8:3;5:11;2:2;;;29:1;26;19:12;2:2;1088:39:2;;;;;;;;;;;;;;;;1080:48;;;;;;;;1146:18;1138:5;;:26;;;;;;;;;;;;;;;;;;;;;;;;1179:14;;;;;;;;;;1210:4;1203:11;;840:381;;;;;:::o;250:23::-;;;;;;;;;;;;;:::o;303:21::-;;;;;;;;;;;;;:::o;610:224::-;663:16;654:25;;;;;;;;:5;;;;;;;;;;;:25;;;;;;;;;646:34;;;;;;;;698:5;;;;;;;;;;;:18;;;717:8;;;;;;;;;;;727:4;733:8;;698:44;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;8:9:-1;5:2;;;30:1;27;20:12;5:2;698:44:2;;;;8:9:-1;5:2;;;45:16;42:1;39;24:38;77:16;74:1;67:27;5:2;698:44:2;;;;;;;13:2:-1;8:3;5:11;2:2;;;29:1;26;19:12;2:2;698:44:2;;;;;;;;;;;;;;;;690:53;;;;;;;;753:5;;;;;;;;;;;:13;;;:15;;;;;;;;;;;;;;;;;;;;;;;8:9:-1;5:2;;;30:1;27;20:12;5:2;753:15:2;;;;8:9:-1;5:2;;;45:16;42:1;39;24:38;77:16;74:1;67:27;5:2;753:15:2;;;;786;778:5;;:23;;;;;;;;;;;;;;;;;;;;;;;;816:11;;;;;;;;;;610:224::o;279:18::-;;;;;;;;;;;;;:::o;200:::-;;;;;;;;;;;;;:::o",
   "source": "pragma solidity ^0.4.21;\n\nimport \"zeppelin-solidity/contracts/token/ERC20.sol\";\nimport \"./Agent.sol\";\n\ncontract Job {\n    enum JobState {\n        PENDING,\n        FUNDED,\n        COMPLETED\n    }\n\n    ERC20 public token;\n    uint public jobPrice;\n    address public consumer;\n    Agent public agent;\n    JobState public state;\n    \n    event JobFunded();\n    event JobCompleted();\n\n    function Job(address _token, uint _jobPrice) public {\n        token = ERC20(_token);\n        jobPrice = _jobPrice;\n        consumer = tx.origin;\n        agent = Agent(msg.sender);\n        state = JobState.PENDING;\n    }\n\n    function fundJob() public {\n        require(state == JobState.PENDING);\n        require(token.transferFrom(consumer, this, jobPrice));\n        agent.fundJob();\n        state = JobState.FUNDED;\n        emit JobFunded();\n    }\n\n    function completeJob(uint8 v, bytes32 r, bytes32 s) public returns (bool) {\n        require(state == JobState.FUNDED);\n        require(ecrecover(keccak256(\"\\x19Ethereum Signed Message:\\n32\", keccak256(this)), v, r, s) == consumer);\n        require(token.approve(address(agent), jobPrice));\n        state = JobState.COMPLETED;\n        emit JobCompleted();\n        return true;\n    }\n}\n",
-  "sourcePath": "/Users/erickearns/Documents/repositories/erickearns/singnet-forks/alpha-blockchain/contracts/Job.sol",
+  "sourcePath": "/Users/valerio.versace/repo/SingularityNET/alpha-blockchain/contracts/Job.sol",
   "ast": {
-    "absolutePath": "/Users/erickearns/Documents/repositories/erickearns/singnet-forks/alpha-blockchain/contracts/Job.sol",
+    "absolutePath": "/Users/valerio.versace/repo/SingularityNET/alpha-blockchain/contracts/Job.sol",
     "exportedSymbols": {
       "Job": [
-        524
+        552
       ]
     },
-    "id": 525,
+    "id": 553,
     "nodeType": "SourceUnit",
     "nodes": [
       {
-        "id": 380,
+        "id": 408,
         "literals": [
           "solidity",
           "^",
@@ -165,21 +165,21 @@
       {
         "absolutePath": "zeppelin-solidity/contracts/token/ERC20.sol",
         "file": "zeppelin-solidity/contracts/token/ERC20.sol",
-        "id": 381,
+        "id": 409,
         "nodeType": "ImportDirective",
-        "scope": 525,
-        "sourceUnit": 938,
+        "scope": 553,
+        "sourceUnit": 966,
         "src": "26:53:2",
         "symbolAliases": [],
         "unitAlias": ""
       },
       {
-        "absolutePath": "/Users/erickearns/Documents/repositories/erickearns/singnet-forks/alpha-blockchain/contracts/Agent.sol",
+        "absolutePath": "/Users/valerio.versace/repo/SingularityNET/alpha-blockchain/contracts/Agent.sol",
         "file": "./Agent.sol",
-        "id": 382,
+        "id": 410,
         "nodeType": "ImportDirective",
-        "scope": 525,
-        "sourceUnit": 325,
+        "scope": 553,
+        "sourceUnit": 350,
         "src": "80:21:2",
         "symbolAliases": [],
         "unitAlias": ""
@@ -190,31 +190,31 @@
         "contractKind": "contract",
         "documentation": null,
         "fullyImplemented": true,
-        "id": 524,
+        "id": 552,
         "linearizedBaseContracts": [
-          524
+          552
         ],
         "name": "Job",
         "nodeType": "ContractDefinition",
         "nodes": [
           {
             "canonicalName": "Job.JobState",
-            "id": 386,
+            "id": 414,
             "members": [
               {
-                "id": 383,
+                "id": 411,
                 "name": "PENDING",
                 "nodeType": "EnumValue",
                 "src": "146:7:2"
               },
               {
-                "id": 384,
+                "id": 412,
                 "name": "FUNDED",
                 "nodeType": "EnumValue",
                 "src": "163:6:2"
               },
               {
-                "id": 385,
+                "id": 413,
                 "name": "COMPLETED",
                 "nodeType": "EnumValue",
                 "src": "179:9:2"
@@ -226,26 +226,26 @@
           },
           {
             "constant": false,
-            "id": 388,
+            "id": 416,
             "name": "token",
             "nodeType": "VariableDeclaration",
-            "scope": 524,
+            "scope": 552,
             "src": "200:18:2",
             "stateVariable": true,
             "storageLocation": "default",
             "typeDescriptions": {
-              "typeIdentifier": "t_contract$_ERC20_$937",
+              "typeIdentifier": "t_contract$_ERC20_$965",
               "typeString": "contract ERC20"
             },
             "typeName": {
               "contractScope": null,
-              "id": 387,
+              "id": 415,
               "name": "ERC20",
               "nodeType": "UserDefinedTypeName",
-              "referencedDeclaration": 937,
+              "referencedDeclaration": 965,
               "src": "200:5:2",
               "typeDescriptions": {
-                "typeIdentifier": "t_contract$_ERC20_$937",
+                "typeIdentifier": "t_contract$_ERC20_$965",
                 "typeString": "contract ERC20"
               }
             },
@@ -254,10 +254,10 @@
           },
           {
             "constant": false,
-            "id": 390,
+            "id": 418,
             "name": "jobPrice",
             "nodeType": "VariableDeclaration",
-            "scope": 524,
+            "scope": 552,
             "src": "224:20:2",
             "stateVariable": true,
             "storageLocation": "default",
@@ -266,7 +266,7 @@
               "typeString": "uint256"
             },
             "typeName": {
-              "id": 389,
+              "id": 417,
               "name": "uint",
               "nodeType": "ElementaryTypeName",
               "src": "224:4:2",
@@ -280,10 +280,10 @@
           },
           {
             "constant": false,
-            "id": 392,
+            "id": 420,
             "name": "consumer",
             "nodeType": "VariableDeclaration",
-            "scope": 524,
+            "scope": 552,
             "src": "250:23:2",
             "stateVariable": true,
             "storageLocation": "default",
@@ -292,7 +292,7 @@
               "typeString": "address"
             },
             "typeName": {
-              "id": 391,
+              "id": 419,
               "name": "address",
               "nodeType": "ElementaryTypeName",
               "src": "250:7:2",
@@ -306,26 +306,26 @@
           },
           {
             "constant": false,
-            "id": 394,
+            "id": 422,
             "name": "agent",
             "nodeType": "VariableDeclaration",
-            "scope": 524,
+            "scope": 552,
             "src": "279:18:2",
             "stateVariable": true,
             "storageLocation": "default",
             "typeDescriptions": {
-              "typeIdentifier": "t_contract$_Agent_$324",
+              "typeIdentifier": "t_contract$_Agent_$349",
               "typeString": "contract Agent"
             },
             "typeName": {
               "contractScope": null,
-              "id": 393,
+              "id": 421,
               "name": "Agent",
               "nodeType": "UserDefinedTypeName",
-              "referencedDeclaration": 324,
+              "referencedDeclaration": 349,
               "src": "279:5:2",
               "typeDescriptions": {
-                "typeIdentifier": "t_contract$_Agent_$324",
+                "typeIdentifier": "t_contract$_Agent_$349",
                 "typeString": "contract Agent"
               }
             },
@@ -334,26 +334,26 @@
           },
           {
             "constant": false,
-            "id": 396,
+            "id": 424,
             "name": "state",
             "nodeType": "VariableDeclaration",
-            "scope": 524,
+            "scope": 552,
             "src": "303:21:2",
             "stateVariable": true,
             "storageLocation": "default",
             "typeDescriptions": {
-              "typeIdentifier": "t_enum$_JobState_$386",
+              "typeIdentifier": "t_enum$_JobState_$414",
               "typeString": "enum Job.JobState"
             },
             "typeName": {
               "contractScope": null,
-              "id": 395,
+              "id": 423,
               "name": "JobState",
               "nodeType": "UserDefinedTypeName",
-              "referencedDeclaration": 386,
+              "referencedDeclaration": 414,
               "src": "303:8:2",
               "typeDescriptions": {
-                "typeIdentifier": "t_enum$_JobState_$386",
+                "typeIdentifier": "t_enum$_JobState_$414",
                 "typeString": "enum Job.JobState"
               }
             },
@@ -363,11 +363,11 @@
           {
             "anonymous": false,
             "documentation": null,
-            "id": 398,
+            "id": 426,
             "name": "JobFunded",
             "nodeType": "EventDefinition",
             "parameters": {
-              "id": 397,
+              "id": 425,
               "nodeType": "ParameterList",
               "parameters": [],
               "src": "350:2:2"
@@ -377,11 +377,11 @@
           {
             "anonymous": false,
             "documentation": null,
-            "id": 400,
+            "id": 428,
             "name": "JobCompleted",
             "nodeType": "EventDefinition",
             "parameters": {
-              "id": 399,
+              "id": 427,
               "nodeType": "ParameterList",
               "parameters": [],
               "src": "376:2:2"
@@ -390,28 +390,28 @@
           },
           {
             "body": {
-              "id": 434,
+              "id": 462,
               "nodeType": "Block",
               "src": "437:167:2",
               "statements": [
                 {
                   "expression": {
                     "argumentTypes": null,
-                    "id": 411,
+                    "id": 439,
                     "isConstant": false,
                     "isLValue": false,
                     "isPure": false,
                     "lValueRequested": false,
                     "leftHandSide": {
                       "argumentTypes": null,
-                      "id": 407,
+                      "id": 435,
                       "name": "token",
                       "nodeType": "Identifier",
                       "overloadedDeclarations": [],
-                      "referencedDeclaration": 388,
+                      "referencedDeclaration": 416,
                       "src": "447:5:2",
                       "typeDescriptions": {
-                        "typeIdentifier": "t_contract$_ERC20_$937",
+                        "typeIdentifier": "t_contract$_ERC20_$965",
                         "typeString": "contract ERC20"
                       }
                     },
@@ -422,11 +422,11 @@
                       "arguments": [
                         {
                           "argumentTypes": null,
-                          "id": 409,
+                          "id": 437,
                           "name": "_token",
                           "nodeType": "Identifier",
                           "overloadedDeclarations": [],
-                          "referencedDeclaration": 402,
+                          "referencedDeclaration": 430,
                           "src": "461:6:2",
                           "typeDescriptions": {
                             "typeIdentifier": "t_address",
@@ -441,18 +441,18 @@
                             "typeString": "address"
                           }
                         ],
-                        "id": 408,
+                        "id": 436,
                         "name": "ERC20",
                         "nodeType": "Identifier",
                         "overloadedDeclarations": [],
-                        "referencedDeclaration": 937,
+                        "referencedDeclaration": 965,
                         "src": "455:5:2",
                         "typeDescriptions": {
-                          "typeIdentifier": "t_type$_t_contract$_ERC20_$937_$",
+                          "typeIdentifier": "t_type$_t_contract$_ERC20_$965_$",
                           "typeString": "type(contract ERC20)"
                         }
                       },
-                      "id": 410,
+                      "id": 438,
                       "isConstant": false,
                       "isLValue": false,
                       "isPure": false,
@@ -462,35 +462,35 @@
                       "nodeType": "FunctionCall",
                       "src": "455:13:2",
                       "typeDescriptions": {
-                        "typeIdentifier": "t_contract$_ERC20_$937",
+                        "typeIdentifier": "t_contract$_ERC20_$965",
                         "typeString": "contract ERC20"
                       }
                     },
                     "src": "447:21:2",
                     "typeDescriptions": {
-                      "typeIdentifier": "t_contract$_ERC20_$937",
+                      "typeIdentifier": "t_contract$_ERC20_$965",
                       "typeString": "contract ERC20"
                     }
                   },
-                  "id": 412,
+                  "id": 440,
                   "nodeType": "ExpressionStatement",
                   "src": "447:21:2"
                 },
                 {
                   "expression": {
                     "argumentTypes": null,
-                    "id": 415,
+                    "id": 443,
                     "isConstant": false,
                     "isLValue": false,
                     "isPure": false,
                     "lValueRequested": false,
                     "leftHandSide": {
                       "argumentTypes": null,
-                      "id": 413,
+                      "id": 441,
                       "name": "jobPrice",
                       "nodeType": "Identifier",
                       "overloadedDeclarations": [],
-                      "referencedDeclaration": 390,
+                      "referencedDeclaration": 418,
                       "src": "478:8:2",
                       "typeDescriptions": {
                         "typeIdentifier": "t_uint256",
@@ -501,11 +501,11 @@
                     "operator": "=",
                     "rightHandSide": {
                       "argumentTypes": null,
-                      "id": 414,
+                      "id": 442,
                       "name": "_jobPrice",
                       "nodeType": "Identifier",
                       "overloadedDeclarations": [],
-                      "referencedDeclaration": 404,
+                      "referencedDeclaration": 432,
                       "src": "489:9:2",
                       "typeDescriptions": {
                         "typeIdentifier": "t_uint256",
@@ -518,25 +518,25 @@
                       "typeString": "uint256"
                     }
                   },
-                  "id": 416,
+                  "id": 444,
                   "nodeType": "ExpressionStatement",
                   "src": "478:20:2"
                 },
                 {
                   "expression": {
                     "argumentTypes": null,
-                    "id": 420,
+                    "id": 448,
                     "isConstant": false,
                     "isLValue": false,
                     "isPure": false,
                     "lValueRequested": false,
                     "leftHandSide": {
                       "argumentTypes": null,
-                      "id": 417,
+                      "id": 445,
                       "name": "consumer",
                       "nodeType": "Identifier",
                       "overloadedDeclarations": [],
-                      "referencedDeclaration": 392,
+                      "referencedDeclaration": 420,
                       "src": "508:8:2",
                       "typeDescriptions": {
                         "typeIdentifier": "t_address",
@@ -549,18 +549,18 @@
                       "argumentTypes": null,
                       "expression": {
                         "argumentTypes": null,
-                        "id": 418,
+                        "id": 446,
                         "name": "tx",
                         "nodeType": "Identifier",
                         "overloadedDeclarations": [],
-                        "referencedDeclaration": 989,
+                        "referencedDeclaration": 1021,
                         "src": "519:2:2",
                         "typeDescriptions": {
                           "typeIdentifier": "t_magic_transaction",
                           "typeString": "tx"
                         }
                       },
-                      "id": 419,
+                      "id": 447,
                       "isConstant": false,
                       "isLValue": false,
                       "isPure": false,
@@ -580,28 +580,28 @@
                       "typeString": "address"
                     }
                   },
-                  "id": 421,
+                  "id": 449,
                   "nodeType": "ExpressionStatement",
                   "src": "508:20:2"
                 },
                 {
                   "expression": {
                     "argumentTypes": null,
-                    "id": 427,
+                    "id": 455,
                     "isConstant": false,
                     "isLValue": false,
                     "isPure": false,
                     "lValueRequested": false,
                     "leftHandSide": {
                       "argumentTypes": null,
-                      "id": 422,
+                      "id": 450,
                       "name": "agent",
                       "nodeType": "Identifier",
                       "overloadedDeclarations": [],
-                      "referencedDeclaration": 394,
+                      "referencedDeclaration": 422,
                       "src": "538:5:2",
                       "typeDescriptions": {
-                        "typeIdentifier": "t_contract$_Agent_$324",
+                        "typeIdentifier": "t_contract$_Agent_$349",
                         "typeString": "contract Agent"
                       }
                     },
@@ -614,18 +614,18 @@
                           "argumentTypes": null,
                           "expression": {
                             "argumentTypes": null,
-                            "id": 424,
+                            "id": 452,
                             "name": "msg",
                             "nodeType": "Identifier",
                             "overloadedDeclarations": [],
-                            "referencedDeclaration": 979,
+                            "referencedDeclaration": 1009,
                             "src": "552:3:2",
                             "typeDescriptions": {
                               "typeIdentifier": "t_magic_message",
                               "typeString": "msg"
                             }
                           },
-                          "id": 425,
+                          "id": 453,
                           "isConstant": false,
                           "isLValue": false,
                           "isPure": false,
@@ -647,18 +647,18 @@
                             "typeString": "address"
                           }
                         ],
-                        "id": 423,
+                        "id": 451,
                         "name": "Agent",
                         "nodeType": "Identifier",
                         "overloadedDeclarations": [],
-                        "referencedDeclaration": 324,
+                        "referencedDeclaration": 349,
                         "src": "546:5:2",
                         "typeDescriptions": {
-                          "typeIdentifier": "t_type$_t_contract$_Agent_$324_$",
+                          "typeIdentifier": "t_type$_t_contract$_Agent_$349_$",
                           "typeString": "type(contract Agent)"
                         }
                       },
-                      "id": 426,
+                      "id": 454,
                       "isConstant": false,
                       "isLValue": false,
                       "isPure": false,
@@ -668,38 +668,38 @@
                       "nodeType": "FunctionCall",
                       "src": "546:17:2",
                       "typeDescriptions": {
-                        "typeIdentifier": "t_contract$_Agent_$324",
+                        "typeIdentifier": "t_contract$_Agent_$349",
                         "typeString": "contract Agent"
                       }
                     },
                     "src": "538:25:2",
                     "typeDescriptions": {
-                      "typeIdentifier": "t_contract$_Agent_$324",
+                      "typeIdentifier": "t_contract$_Agent_$349",
                       "typeString": "contract Agent"
                     }
                   },
-                  "id": 428,
+                  "id": 456,
                   "nodeType": "ExpressionStatement",
                   "src": "538:25:2"
                 },
                 {
                   "expression": {
                     "argumentTypes": null,
-                    "id": 432,
+                    "id": 460,
                     "isConstant": false,
                     "isLValue": false,
                     "isPure": false,
                     "lValueRequested": false,
                     "leftHandSide": {
                       "argumentTypes": null,
-                      "id": 429,
+                      "id": 457,
                       "name": "state",
                       "nodeType": "Identifier",
                       "overloadedDeclarations": [],
-                      "referencedDeclaration": 396,
+                      "referencedDeclaration": 424,
                       "src": "573:5:2",
                       "typeDescriptions": {
-                        "typeIdentifier": "t_enum$_JobState_$386",
+                        "typeIdentifier": "t_enum$_JobState_$414",
                         "typeString": "enum Job.JobState"
                       }
                     },
@@ -709,18 +709,18 @@
                       "argumentTypes": null,
                       "expression": {
                         "argumentTypes": null,
-                        "id": 430,
+                        "id": 458,
                         "name": "JobState",
                         "nodeType": "Identifier",
                         "overloadedDeclarations": [],
-                        "referencedDeclaration": 386,
+                        "referencedDeclaration": 414,
                         "src": "581:8:2",
                         "typeDescriptions": {
-                          "typeIdentifier": "t_type$_t_enum$_JobState_$386_$",
+                          "typeIdentifier": "t_type$_t_enum$_JobState_$414_$",
                           "typeString": "type(enum Job.JobState)"
                         }
                       },
-                      "id": 431,
+                      "id": 459,
                       "isConstant": false,
                       "isLValue": false,
                       "isPure": true,
@@ -730,24 +730,24 @@
                       "referencedDeclaration": null,
                       "src": "581:16:2",
                       "typeDescriptions": {
-                        "typeIdentifier": "t_enum$_JobState_$386",
+                        "typeIdentifier": "t_enum$_JobState_$414",
                         "typeString": "enum Job.JobState"
                       }
                     },
                     "src": "573:24:2",
                     "typeDescriptions": {
-                      "typeIdentifier": "t_enum$_JobState_$386",
+                      "typeIdentifier": "t_enum$_JobState_$414",
                       "typeString": "enum Job.JobState"
                     }
                   },
-                  "id": 433,
+                  "id": 461,
                   "nodeType": "ExpressionStatement",
                   "src": "573:24:2"
                 }
               ]
             },
             "documentation": null,
-            "id": 435,
+            "id": 463,
             "implemented": true,
             "isConstructor": true,
             "isDeclaredConst": false,
@@ -755,15 +755,15 @@
             "name": "Job",
             "nodeType": "FunctionDefinition",
             "parameters": {
-              "id": 405,
+              "id": 433,
               "nodeType": "ParameterList",
               "parameters": [
                 {
                   "constant": false,
-                  "id": 402,
+                  "id": 430,
                   "name": "_token",
                   "nodeType": "VariableDeclaration",
-                  "scope": 435,
+                  "scope": 463,
                   "src": "398:14:2",
                   "stateVariable": false,
                   "storageLocation": "default",
@@ -772,7 +772,7 @@
                     "typeString": "address"
                   },
                   "typeName": {
-                    "id": 401,
+                    "id": 429,
                     "name": "address",
                     "nodeType": "ElementaryTypeName",
                     "src": "398:7:2",
@@ -786,10 +786,10 @@
                 },
                 {
                   "constant": false,
-                  "id": 404,
+                  "id": 432,
                   "name": "_jobPrice",
                   "nodeType": "VariableDeclaration",
-                  "scope": 435,
+                  "scope": 463,
                   "src": "414:14:2",
                   "stateVariable": false,
                   "storageLocation": "default",
@@ -798,7 +798,7 @@
                     "typeString": "uint256"
                   },
                   "typeName": {
-                    "id": 403,
+                    "id": 431,
                     "name": "uint",
                     "nodeType": "ElementaryTypeName",
                     "src": "414:4:2",
@@ -815,12 +815,12 @@
             },
             "payable": false,
             "returnParameters": {
-              "id": 406,
+              "id": 434,
               "nodeType": "ParameterList",
               "parameters": [],
               "src": "437:0:2"
             },
-            "scope": 524,
+            "scope": 552,
             "src": "385:219:2",
             "stateMutability": "nonpayable",
             "superFunction": null,
@@ -828,7 +828,7 @@
           },
           {
             "body": {
-              "id": 467,
+              "id": 495,
               "nodeType": "Block",
               "src": "636:198:2",
               "statements": [
@@ -839,24 +839,24 @@
                       {
                         "argumentTypes": null,
                         "commonType": {
-                          "typeIdentifier": "t_enum$_JobState_$386",
+                          "typeIdentifier": "t_enum$_JobState_$414",
                           "typeString": "enum Job.JobState"
                         },
-                        "id": 442,
+                        "id": 470,
                         "isConstant": false,
                         "isLValue": false,
                         "isPure": false,
                         "lValueRequested": false,
                         "leftExpression": {
                           "argumentTypes": null,
-                          "id": 439,
+                          "id": 467,
                           "name": "state",
                           "nodeType": "Identifier",
                           "overloadedDeclarations": [],
-                          "referencedDeclaration": 396,
+                          "referencedDeclaration": 424,
                           "src": "654:5:2",
                           "typeDescriptions": {
-                            "typeIdentifier": "t_enum$_JobState_$386",
+                            "typeIdentifier": "t_enum$_JobState_$414",
                             "typeString": "enum Job.JobState"
                           }
                         },
@@ -866,18 +866,18 @@
                           "argumentTypes": null,
                           "expression": {
                             "argumentTypes": null,
-                            "id": 440,
+                            "id": 468,
                             "name": "JobState",
                             "nodeType": "Identifier",
                             "overloadedDeclarations": [],
-                            "referencedDeclaration": 386,
+                            "referencedDeclaration": 414,
                             "src": "663:8:2",
                             "typeDescriptions": {
-                              "typeIdentifier": "t_type$_t_enum$_JobState_$386_$",
+                              "typeIdentifier": "t_type$_t_enum$_JobState_$414_$",
                               "typeString": "type(enum Job.JobState)"
                             }
                           },
-                          "id": 441,
+                          "id": 469,
                           "isConstant": false,
                           "isLValue": false,
                           "isPure": true,
@@ -887,7 +887,7 @@
                           "referencedDeclaration": null,
                           "src": "663:16:2",
                           "typeDescriptions": {
-                            "typeIdentifier": "t_enum$_JobState_$386",
+                            "typeIdentifier": "t_enum$_JobState_$414",
                             "typeString": "enum Job.JobState"
                           }
                         },
@@ -905,18 +905,21 @@
                           "typeString": "bool"
                         }
                       ],
-                      "id": 438,
+                      "id": 466,
                       "name": "require",
                       "nodeType": "Identifier",
-                      "overloadedDeclarations": [],
-                      "referencedDeclaration": 982,
+                      "overloadedDeclarations": [
+                        1012,
+                        1013
+                      ],
+                      "referencedDeclaration": 1012,
                       "src": "646:7:2",
                       "typeDescriptions": {
                         "typeIdentifier": "t_function_require_pure$_t_bool_$returns$__$",
                         "typeString": "function (bool) pure"
                       }
                     },
-                    "id": 443,
+                    "id": 471,
                     "isConstant": false,
                     "isLValue": false,
                     "isPure": false,
@@ -930,7 +933,7 @@
                       "typeString": "tuple()"
                     }
                   },
-                  "id": 444,
+                  "id": 472,
                   "nodeType": "ExpressionStatement",
                   "src": "646:34:2"
                 },
@@ -943,11 +946,11 @@
                         "arguments": [
                           {
                             "argumentTypes": null,
-                            "id": 448,
+                            "id": 476,
                             "name": "consumer",
                             "nodeType": "Identifier",
                             "overloadedDeclarations": [],
-                            "referencedDeclaration": 392,
+                            "referencedDeclaration": 420,
                             "src": "717:8:2",
                             "typeDescriptions": {
                               "typeIdentifier": "t_address",
@@ -956,24 +959,24 @@
                           },
                           {
                             "argumentTypes": null,
-                            "id": 449,
+                            "id": 477,
                             "name": "this",
                             "nodeType": "Identifier",
                             "overloadedDeclarations": [],
-                            "referencedDeclaration": 994,
+                            "referencedDeclaration": 1026,
                             "src": "727:4:2",
                             "typeDescriptions": {
-                              "typeIdentifier": "t_contract$_Job_$524",
+                              "typeIdentifier": "t_contract$_Job_$552",
                               "typeString": "contract Job"
                             }
                           },
                           {
                             "argumentTypes": null,
-                            "id": 450,
+                            "id": 478,
                             "name": "jobPrice",
                             "nodeType": "Identifier",
                             "overloadedDeclarations": [],
-                            "referencedDeclaration": 390,
+                            "referencedDeclaration": 418,
                             "src": "733:8:2",
                             "typeDescriptions": {
                               "typeIdentifier": "t_uint256",
@@ -988,7 +991,7 @@
                               "typeString": "address"
                             },
                             {
-                              "typeIdentifier": "t_contract$_Job_$524",
+                              "typeIdentifier": "t_contract$_Job_$552",
                               "typeString": "contract Job"
                             },
                             {
@@ -998,32 +1001,32 @@
                           ],
                           "expression": {
                             "argumentTypes": null,
-                            "id": 446,
+                            "id": 474,
                             "name": "token",
                             "nodeType": "Identifier",
                             "overloadedDeclarations": [],
-                            "referencedDeclaration": 388,
+                            "referencedDeclaration": 416,
                             "src": "698:5:2",
                             "typeDescriptions": {
-                              "typeIdentifier": "t_contract$_ERC20_$937",
+                              "typeIdentifier": "t_contract$_ERC20_$965",
                               "typeString": "contract ERC20"
                             }
                           },
-                          "id": 447,
+                          "id": 475,
                           "isConstant": false,
                           "isLValue": false,
                           "isPure": false,
                           "lValueRequested": false,
                           "memberName": "transferFrom",
                           "nodeType": "MemberAccess",
-                          "referencedDeclaration": 919,
+                          "referencedDeclaration": 947,
                           "src": "698:18:2",
                           "typeDescriptions": {
                             "typeIdentifier": "t_function_external_nonpayable$_t_address_$_t_address_$_t_uint256_$returns$_t_bool_$",
                             "typeString": "function (address,address,uint256) external returns (bool)"
                           }
                         },
-                        "id": 451,
+                        "id": 479,
                         "isConstant": false,
                         "isLValue": false,
                         "isPure": false,
@@ -1045,18 +1048,21 @@
                           "typeString": "bool"
                         }
                       ],
-                      "id": 445,
+                      "id": 473,
                       "name": "require",
                       "nodeType": "Identifier",
-                      "overloadedDeclarations": [],
-                      "referencedDeclaration": 982,
+                      "overloadedDeclarations": [
+                        1012,
+                        1013
+                      ],
+                      "referencedDeclaration": 1012,
                       "src": "690:7:2",
                       "typeDescriptions": {
                         "typeIdentifier": "t_function_require_pure$_t_bool_$returns$__$",
                         "typeString": "function (bool) pure"
                       }
                     },
-                    "id": 452,
+                    "id": 480,
                     "isConstant": false,
                     "isLValue": false,
                     "isPure": false,
@@ -1070,7 +1076,7 @@
                       "typeString": "tuple()"
                     }
                   },
-                  "id": 453,
+                  "id": 481,
                   "nodeType": "ExpressionStatement",
                   "src": "690:53:2"
                 },
@@ -1082,32 +1088,32 @@
                       "argumentTypes": [],
                       "expression": {
                         "argumentTypes": null,
-                        "id": 454,
+                        "id": 482,
                         "name": "agent",
                         "nodeType": "Identifier",
                         "overloadedDeclarations": [],
-                        "referencedDeclaration": 394,
+                        "referencedDeclaration": 422,
                         "src": "753:5:2",
                         "typeDescriptions": {
-                          "typeIdentifier": "t_contract$_Agent_$324",
+                          "typeIdentifier": "t_contract$_Agent_$349",
                           "typeString": "contract Agent"
                         }
                       },
-                      "id": 456,
+                      "id": 484,
                       "isConstant": false,
                       "isLValue": false,
                       "isPure": false,
                       "lValueRequested": false,
                       "memberName": "fundJob",
                       "nodeType": "MemberAccess",
-                      "referencedDeclaration": 226,
+                      "referencedDeclaration": 251,
                       "src": "753:13:2",
                       "typeDescriptions": {
                         "typeIdentifier": "t_function_external_nonpayable$__$returns$__$",
                         "typeString": "function () external"
                       }
                     },
-                    "id": 457,
+                    "id": 485,
                     "isConstant": false,
                     "isLValue": false,
                     "isPure": false,
@@ -1121,28 +1127,28 @@
                       "typeString": "tuple()"
                     }
                   },
-                  "id": 458,
+                  "id": 486,
                   "nodeType": "ExpressionStatement",
                   "src": "753:15:2"
                 },
                 {
                   "expression": {
                     "argumentTypes": null,
-                    "id": 462,
+                    "id": 490,
                     "isConstant": false,
                     "isLValue": false,
                     "isPure": false,
                     "lValueRequested": false,
                     "leftHandSide": {
                       "argumentTypes": null,
-                      "id": 459,
+                      "id": 487,
                       "name": "state",
                       "nodeType": "Identifier",
                       "overloadedDeclarations": [],
-                      "referencedDeclaration": 396,
+                      "referencedDeclaration": 424,
                       "src": "778:5:2",
                       "typeDescriptions": {
-                        "typeIdentifier": "t_enum$_JobState_$386",
+                        "typeIdentifier": "t_enum$_JobState_$414",
                         "typeString": "enum Job.JobState"
                       }
                     },
@@ -1152,18 +1158,18 @@
                       "argumentTypes": null,
                       "expression": {
                         "argumentTypes": null,
-                        "id": 460,
+                        "id": 488,
                         "name": "JobState",
                         "nodeType": "Identifier",
                         "overloadedDeclarations": [],
-                        "referencedDeclaration": 386,
+                        "referencedDeclaration": 414,
                         "src": "786:8:2",
                         "typeDescriptions": {
-                          "typeIdentifier": "t_type$_t_enum$_JobState_$386_$",
+                          "typeIdentifier": "t_type$_t_enum$_JobState_$414_$",
                           "typeString": "type(enum Job.JobState)"
                         }
                       },
-                      "id": 461,
+                      "id": 489,
                       "isConstant": false,
                       "isLValue": false,
                       "isPure": true,
@@ -1173,17 +1179,17 @@
                       "referencedDeclaration": null,
                       "src": "786:15:2",
                       "typeDescriptions": {
-                        "typeIdentifier": "t_enum$_JobState_$386",
+                        "typeIdentifier": "t_enum$_JobState_$414",
                         "typeString": "enum Job.JobState"
                       }
                     },
                     "src": "778:23:2",
                     "typeDescriptions": {
-                      "typeIdentifier": "t_enum$_JobState_$386",
+                      "typeIdentifier": "t_enum$_JobState_$414",
                       "typeString": "enum Job.JobState"
                     }
                   },
-                  "id": 463,
+                  "id": 491,
                   "nodeType": "ExpressionStatement",
                   "src": "778:23:2"
                 },
@@ -1193,18 +1199,18 @@
                     "arguments": [],
                     "expression": {
                       "argumentTypes": [],
-                      "id": 464,
+                      "id": 492,
                       "name": "JobFunded",
                       "nodeType": "Identifier",
                       "overloadedDeclarations": [],
-                      "referencedDeclaration": 398,
+                      "referencedDeclaration": 426,
                       "src": "816:9:2",
                       "typeDescriptions": {
                         "typeIdentifier": "t_function_event_nonpayable$__$returns$__$",
                         "typeString": "function ()"
                       }
                     },
-                    "id": 465,
+                    "id": 493,
                     "isConstant": false,
                     "isLValue": false,
                     "isPure": false,
@@ -1218,14 +1224,14 @@
                       "typeString": "tuple()"
                     }
                   },
-                  "id": 466,
+                  "id": 494,
                   "nodeType": "EmitStatement",
                   "src": "811:16:2"
                 }
               ]
             },
             "documentation": null,
-            "id": 468,
+            "id": 496,
             "implemented": true,
             "isConstructor": false,
             "isDeclaredConst": false,
@@ -1233,19 +1239,19 @@
             "name": "fundJob",
             "nodeType": "FunctionDefinition",
             "parameters": {
-              "id": 436,
+              "id": 464,
               "nodeType": "ParameterList",
               "parameters": [],
               "src": "626:2:2"
             },
             "payable": false,
             "returnParameters": {
-              "id": 437,
+              "id": 465,
               "nodeType": "ParameterList",
               "parameters": [],
               "src": "636:0:2"
             },
-            "scope": 524,
+            "scope": 552,
             "src": "610:224:2",
             "stateMutability": "nonpayable",
             "superFunction": null,
@@ -1253,7 +1259,7 @@
           },
           {
             "body": {
-              "id": 522,
+              "id": 550,
               "nodeType": "Block",
               "src": "914:307:2",
               "statements": [
@@ -1264,24 +1270,24 @@
                       {
                         "argumentTypes": null,
                         "commonType": {
-                          "typeIdentifier": "t_enum$_JobState_$386",
+                          "typeIdentifier": "t_enum$_JobState_$414",
                           "typeString": "enum Job.JobState"
                         },
-                        "id": 483,
+                        "id": 511,
                         "isConstant": false,
                         "isLValue": false,
                         "isPure": false,
                         "lValueRequested": false,
                         "leftExpression": {
                           "argumentTypes": null,
-                          "id": 480,
+                          "id": 508,
                           "name": "state",
                           "nodeType": "Identifier",
                           "overloadedDeclarations": [],
-                          "referencedDeclaration": 396,
+                          "referencedDeclaration": 424,
                           "src": "932:5:2",
                           "typeDescriptions": {
-                            "typeIdentifier": "t_enum$_JobState_$386",
+                            "typeIdentifier": "t_enum$_JobState_$414",
                             "typeString": "enum Job.JobState"
                           }
                         },
@@ -1291,18 +1297,18 @@
                           "argumentTypes": null,
                           "expression": {
                             "argumentTypes": null,
-                            "id": 481,
+                            "id": 509,
                             "name": "JobState",
                             "nodeType": "Identifier",
                             "overloadedDeclarations": [],
-                            "referencedDeclaration": 386,
+                            "referencedDeclaration": 414,
                             "src": "941:8:2",
                             "typeDescriptions": {
-                              "typeIdentifier": "t_type$_t_enum$_JobState_$386_$",
+                              "typeIdentifier": "t_type$_t_enum$_JobState_$414_$",
                               "typeString": "type(enum Job.JobState)"
                             }
                           },
-                          "id": 482,
+                          "id": 510,
                           "isConstant": false,
                           "isLValue": false,
                           "isPure": true,
@@ -1312,7 +1318,7 @@
                           "referencedDeclaration": null,
                           "src": "941:15:2",
                           "typeDescriptions": {
-                            "typeIdentifier": "t_enum$_JobState_$386",
+                            "typeIdentifier": "t_enum$_JobState_$414",
                             "typeString": "enum Job.JobState"
                           }
                         },
@@ -1330,18 +1336,21 @@
                           "typeString": "bool"
                         }
                       ],
-                      "id": 479,
+                      "id": 507,
                       "name": "require",
                       "nodeType": "Identifier",
-                      "overloadedDeclarations": [],
-                      "referencedDeclaration": 982,
+                      "overloadedDeclarations": [
+                        1012,
+                        1013
+                      ],
+                      "referencedDeclaration": 1012,
                       "src": "924:7:2",
                       "typeDescriptions": {
                         "typeIdentifier": "t_function_require_pure$_t_bool_$returns$__$",
                         "typeString": "function (bool) pure"
                       }
                     },
-                    "id": 484,
+                    "id": 512,
                     "isConstant": false,
                     "isLValue": false,
                     "isPure": false,
@@ -1355,7 +1364,7 @@
                       "typeString": "tuple()"
                     }
                   },
-                  "id": 485,
+                  "id": 513,
                   "nodeType": "ExpressionStatement",
                   "src": "924:33:2"
                 },
@@ -1369,7 +1378,7 @@
                           "typeIdentifier": "t_address",
                           "typeString": "address"
                         },
-                        "id": 499,
+                        "id": 527,
                         "isConstant": false,
                         "isLValue": false,
                         "isPure": false,
@@ -1383,7 +1392,7 @@
                                 {
                                   "argumentTypes": null,
                                   "hexValue": "19457468657265756d205369676e6564204d6573736167653a0a3332",
-                                  "id": 489,
+                                  "id": 517,
                                   "isConstant": false,
                                   "isLValue": false,
                                   "isPure": true,
@@ -1403,14 +1412,14 @@
                                   "arguments": [
                                     {
                                       "argumentTypes": null,
-                                      "id": 491,
+                                      "id": 519,
                                       "name": "this",
                                       "nodeType": "Identifier",
                                       "overloadedDeclarations": [],
-                                      "referencedDeclaration": 994,
+                                      "referencedDeclaration": 1026,
                                       "src": "1041:4:2",
                                       "typeDescriptions": {
-                                        "typeIdentifier": "t_contract$_Job_$524",
+                                        "typeIdentifier": "t_contract$_Job_$552",
                                         "typeString": "contract Job"
                                       }
                                     }
@@ -1418,22 +1427,22 @@
                                   "expression": {
                                     "argumentTypes": [
                                       {
-                                        "typeIdentifier": "t_contract$_Job_$524",
+                                        "typeIdentifier": "t_contract$_Job_$552",
                                         "typeString": "contract Job"
                                       }
                                     ],
-                                    "id": 490,
+                                    "id": 518,
                                     "name": "keccak256",
                                     "nodeType": "Identifier",
                                     "overloadedDeclarations": [],
-                                    "referencedDeclaration": 973,
+                                    "referencedDeclaration": 1003,
                                     "src": "1031:9:2",
                                     "typeDescriptions": {
                                       "typeIdentifier": "t_function_sha3_pure$__$returns$_t_bytes32_$",
                                       "typeString": "function () pure returns (bytes32)"
                                     }
                                   },
-                                  "id": 492,
+                                  "id": 520,
                                   "isConstant": false,
                                   "isLValue": false,
                                   "isPure": false,
@@ -1459,18 +1468,18 @@
                                     "typeString": "bytes32"
                                   }
                                 ],
-                                "id": 488,
+                                "id": 516,
                                 "name": "keccak256",
                                 "nodeType": "Identifier",
                                 "overloadedDeclarations": [],
-                                "referencedDeclaration": 973,
+                                "referencedDeclaration": 1003,
                                 "src": "985:9:2",
                                 "typeDescriptions": {
                                   "typeIdentifier": "t_function_sha3_pure$__$returns$_t_bytes32_$",
                                   "typeString": "function () pure returns (bytes32)"
                                 }
                               },
-                              "id": 493,
+                              "id": 521,
                               "isConstant": false,
                               "isLValue": false,
                               "isPure": false,
@@ -1486,11 +1495,11 @@
                             },
                             {
                               "argumentTypes": null,
-                              "id": 494,
+                              "id": 522,
                               "name": "v",
                               "nodeType": "Identifier",
                               "overloadedDeclarations": [],
-                              "referencedDeclaration": 470,
+                              "referencedDeclaration": 498,
                               "src": "1049:1:2",
                               "typeDescriptions": {
                                 "typeIdentifier": "t_uint8",
@@ -1499,11 +1508,11 @@
                             },
                             {
                               "argumentTypes": null,
-                              "id": 495,
+                              "id": 523,
                               "name": "r",
                               "nodeType": "Identifier",
                               "overloadedDeclarations": [],
-                              "referencedDeclaration": 472,
+                              "referencedDeclaration": 500,
                               "src": "1052:1:2",
                               "typeDescriptions": {
                                 "typeIdentifier": "t_bytes32",
@@ -1512,11 +1521,11 @@
                             },
                             {
                               "argumentTypes": null,
-                              "id": 496,
+                              "id": 524,
                               "name": "s",
                               "nodeType": "Identifier",
                               "overloadedDeclarations": [],
-                              "referencedDeclaration": 474,
+                              "referencedDeclaration": 502,
                               "src": "1055:1:2",
                               "typeDescriptions": {
                                 "typeIdentifier": "t_bytes32",
@@ -1543,18 +1552,18 @@
                                 "typeString": "bytes32"
                               }
                             ],
-                            "id": 487,
+                            "id": 515,
                             "name": "ecrecover",
                             "nodeType": "Identifier",
                             "overloadedDeclarations": [],
-                            "referencedDeclaration": 971,
+                            "referencedDeclaration": 1001,
                             "src": "975:9:2",
                             "typeDescriptions": {
                               "typeIdentifier": "t_function_ecrecover_pure$_t_bytes32_$_t_uint8_$_t_bytes32_$_t_bytes32_$returns$_t_address_$",
                               "typeString": "function (bytes32,uint8,bytes32,bytes32) pure returns (address)"
                             }
                           },
-                          "id": 497,
+                          "id": 525,
                           "isConstant": false,
                           "isLValue": false,
                           "isPure": false,
@@ -1572,11 +1581,11 @@
                         "operator": "==",
                         "rightExpression": {
                           "argumentTypes": null,
-                          "id": 498,
+                          "id": 526,
                           "name": "consumer",
                           "nodeType": "Identifier",
                           "overloadedDeclarations": [],
-                          "referencedDeclaration": 392,
+                          "referencedDeclaration": 420,
                           "src": "1061:8:2",
                           "typeDescriptions": {
                             "typeIdentifier": "t_address",
@@ -1597,18 +1606,21 @@
                           "typeString": "bool"
                         }
                       ],
-                      "id": 486,
+                      "id": 514,
                       "name": "require",
                       "nodeType": "Identifier",
-                      "overloadedDeclarations": [],
-                      "referencedDeclaration": 982,
+                      "overloadedDeclarations": [
+                        1012,
+                        1013
+                      ],
+                      "referencedDeclaration": 1012,
                       "src": "967:7:2",
                       "typeDescriptions": {
                         "typeIdentifier": "t_function_require_pure$_t_bool_$returns$__$",
                         "typeString": "function (bool) pure"
                       }
                     },
-                    "id": 500,
+                    "id": 528,
                     "isConstant": false,
                     "isLValue": false,
                     "isPure": false,
@@ -1622,7 +1634,7 @@
                       "typeString": "tuple()"
                     }
                   },
-                  "id": 501,
+                  "id": 529,
                   "nodeType": "ExpressionStatement",
                   "src": "967:103:2"
                 },
@@ -1638,14 +1650,14 @@
                             "arguments": [
                               {
                                 "argumentTypes": null,
-                                "id": 506,
+                                "id": 534,
                                 "name": "agent",
                                 "nodeType": "Identifier",
                                 "overloadedDeclarations": [],
-                                "referencedDeclaration": 394,
+                                "referencedDeclaration": 422,
                                 "src": "1110:5:2",
                                 "typeDescriptions": {
-                                  "typeIdentifier": "t_contract$_Agent_$324",
+                                  "typeIdentifier": "t_contract$_Agent_$349",
                                   "typeString": "contract Agent"
                                 }
                               }
@@ -1653,11 +1665,11 @@
                             "expression": {
                               "argumentTypes": [
                                 {
-                                  "typeIdentifier": "t_contract$_Agent_$324",
+                                  "typeIdentifier": "t_contract$_Agent_$349",
                                   "typeString": "contract Agent"
                                 }
                               ],
-                              "id": 505,
+                              "id": 533,
                               "isConstant": false,
                               "isLValue": false,
                               "isPure": true,
@@ -1670,7 +1682,7 @@
                               },
                               "typeName": "address"
                             },
-                            "id": 507,
+                            "id": 535,
                             "isConstant": false,
                             "isLValue": false,
                             "isPure": false,
@@ -1686,11 +1698,11 @@
                           },
                           {
                             "argumentTypes": null,
-                            "id": 508,
+                            "id": 536,
                             "name": "jobPrice",
                             "nodeType": "Identifier",
                             "overloadedDeclarations": [],
-                            "referencedDeclaration": 390,
+                            "referencedDeclaration": 418,
                             "src": "1118:8:2",
                             "typeDescriptions": {
                               "typeIdentifier": "t_uint256",
@@ -1711,32 +1723,32 @@
                           ],
                           "expression": {
                             "argumentTypes": null,
-                            "id": 503,
+                            "id": 531,
                             "name": "token",
                             "nodeType": "Identifier",
                             "overloadedDeclarations": [],
-                            "referencedDeclaration": 388,
+                            "referencedDeclaration": 416,
                             "src": "1088:5:2",
                             "typeDescriptions": {
-                              "typeIdentifier": "t_contract$_ERC20_$937",
+                              "typeIdentifier": "t_contract$_ERC20_$965",
                               "typeString": "contract ERC20"
                             }
                           },
-                          "id": 504,
+                          "id": 532,
                           "isConstant": false,
                           "isLValue": false,
                           "isPure": false,
                           "lValueRequested": false,
                           "memberName": "approve",
                           "nodeType": "MemberAccess",
-                          "referencedDeclaration": 928,
+                          "referencedDeclaration": 956,
                           "src": "1088:13:2",
                           "typeDescriptions": {
                             "typeIdentifier": "t_function_external_nonpayable$_t_address_$_t_uint256_$returns$_t_bool_$",
                             "typeString": "function (address,uint256) external returns (bool)"
                           }
                         },
-                        "id": 509,
+                        "id": 537,
                         "isConstant": false,
                         "isLValue": false,
                         "isPure": false,
@@ -1758,18 +1770,21 @@
                           "typeString": "bool"
                         }
                       ],
-                      "id": 502,
+                      "id": 530,
                       "name": "require",
                       "nodeType": "Identifier",
-                      "overloadedDeclarations": [],
-                      "referencedDeclaration": 982,
+                      "overloadedDeclarations": [
+                        1012,
+                        1013
+                      ],
+                      "referencedDeclaration": 1012,
                       "src": "1080:7:2",
                       "typeDescriptions": {
                         "typeIdentifier": "t_function_require_pure$_t_bool_$returns$__$",
                         "typeString": "function (bool) pure"
                       }
                     },
-                    "id": 510,
+                    "id": 538,
                     "isConstant": false,
                     "isLValue": false,
                     "isPure": false,
@@ -1783,28 +1798,28 @@
                       "typeString": "tuple()"
                     }
                   },
-                  "id": 511,
+                  "id": 539,
                   "nodeType": "ExpressionStatement",
                   "src": "1080:48:2"
                 },
                 {
                   "expression": {
                     "argumentTypes": null,
-                    "id": 515,
+                    "id": 543,
                     "isConstant": false,
                     "isLValue": false,
                     "isPure": false,
                     "lValueRequested": false,
                     "leftHandSide": {
                       "argumentTypes": null,
-                      "id": 512,
+                      "id": 540,
                       "name": "state",
                       "nodeType": "Identifier",
                       "overloadedDeclarations": [],
-                      "referencedDeclaration": 396,
+                      "referencedDeclaration": 424,
                       "src": "1138:5:2",
                       "typeDescriptions": {
-                        "typeIdentifier": "t_enum$_JobState_$386",
+                        "typeIdentifier": "t_enum$_JobState_$414",
                         "typeString": "enum Job.JobState"
                       }
                     },
@@ -1814,18 +1829,18 @@
                       "argumentTypes": null,
                       "expression": {
                         "argumentTypes": null,
-                        "id": 513,
+                        "id": 541,
                         "name": "JobState",
                         "nodeType": "Identifier",
                         "overloadedDeclarations": [],
-                        "referencedDeclaration": 386,
+                        "referencedDeclaration": 414,
                         "src": "1146:8:2",
                         "typeDescriptions": {
-                          "typeIdentifier": "t_type$_t_enum$_JobState_$386_$",
+                          "typeIdentifier": "t_type$_t_enum$_JobState_$414_$",
                           "typeString": "type(enum Job.JobState)"
                         }
                       },
-                      "id": 514,
+                      "id": 542,
                       "isConstant": false,
                       "isLValue": false,
                       "isPure": true,
@@ -1835,17 +1850,17 @@
                       "referencedDeclaration": null,
                       "src": "1146:18:2",
                       "typeDescriptions": {
-                        "typeIdentifier": "t_enum$_JobState_$386",
+                        "typeIdentifier": "t_enum$_JobState_$414",
                         "typeString": "enum Job.JobState"
                       }
                     },
                     "src": "1138:26:2",
                     "typeDescriptions": {
-                      "typeIdentifier": "t_enum$_JobState_$386",
+                      "typeIdentifier": "t_enum$_JobState_$414",
                       "typeString": "enum Job.JobState"
                     }
                   },
-                  "id": 516,
+                  "id": 544,
                   "nodeType": "ExpressionStatement",
                   "src": "1138:26:2"
                 },
@@ -1855,18 +1870,18 @@
                     "arguments": [],
                     "expression": {
                       "argumentTypes": [],
-                      "id": 517,
+                      "id": 545,
                       "name": "JobCompleted",
                       "nodeType": "Identifier",
                       "overloadedDeclarations": [],
-                      "referencedDeclaration": 400,
+                      "referencedDeclaration": 428,
                       "src": "1179:12:2",
                       "typeDescriptions": {
                         "typeIdentifier": "t_function_event_nonpayable$__$returns$__$",
                         "typeString": "function ()"
                       }
                     },
-                    "id": 518,
+                    "id": 546,
                     "isConstant": false,
                     "isLValue": false,
                     "isPure": false,
@@ -1880,7 +1895,7 @@
                       "typeString": "tuple()"
                     }
                   },
-                  "id": 519,
+                  "id": 547,
                   "nodeType": "EmitStatement",
                   "src": "1174:19:2"
                 },
@@ -1888,7 +1903,7 @@
                   "expression": {
                     "argumentTypes": null,
                     "hexValue": "74727565",
-                    "id": 520,
+                    "id": 548,
                     "isConstant": false,
                     "isLValue": false,
                     "isPure": true,
@@ -1903,15 +1918,15 @@
                     },
                     "value": "true"
                   },
-                  "functionReturnParameters": 478,
-                  "id": 521,
+                  "functionReturnParameters": 506,
+                  "id": 549,
                   "nodeType": "Return",
                   "src": "1203:11:2"
                 }
               ]
             },
             "documentation": null,
-            "id": 523,
+            "id": 551,
             "implemented": true,
             "isConstructor": false,
             "isDeclaredConst": false,
@@ -1919,15 +1934,15 @@
             "name": "completeJob",
             "nodeType": "FunctionDefinition",
             "parameters": {
-              "id": 475,
+              "id": 503,
               "nodeType": "ParameterList",
               "parameters": [
                 {
                   "constant": false,
-                  "id": 470,
+                  "id": 498,
                   "name": "v",
                   "nodeType": "VariableDeclaration",
-                  "scope": 523,
+                  "scope": 551,
                   "src": "861:7:2",
                   "stateVariable": false,
                   "storageLocation": "default",
@@ -1936,7 +1951,7 @@
                     "typeString": "uint8"
                   },
                   "typeName": {
-                    "id": 469,
+                    "id": 497,
                     "name": "uint8",
                     "nodeType": "ElementaryTypeName",
                     "src": "861:5:2",
@@ -1950,10 +1965,10 @@
                 },
                 {
                   "constant": false,
-                  "id": 472,
+                  "id": 500,
                   "name": "r",
                   "nodeType": "VariableDeclaration",
-                  "scope": 523,
+                  "scope": 551,
                   "src": "870:9:2",
                   "stateVariable": false,
                   "storageLocation": "default",
@@ -1962,7 +1977,7 @@
                     "typeString": "bytes32"
                   },
                   "typeName": {
-                    "id": 471,
+                    "id": 499,
                     "name": "bytes32",
                     "nodeType": "ElementaryTypeName",
                     "src": "870:7:2",
@@ -1976,10 +1991,10 @@
                 },
                 {
                   "constant": false,
-                  "id": 474,
+                  "id": 502,
                   "name": "s",
                   "nodeType": "VariableDeclaration",
-                  "scope": 523,
+                  "scope": 551,
                   "src": "881:9:2",
                   "stateVariable": false,
                   "storageLocation": "default",
@@ -1988,7 +2003,7 @@
                     "typeString": "bytes32"
                   },
                   "typeName": {
-                    "id": 473,
+                    "id": 501,
                     "name": "bytes32",
                     "nodeType": "ElementaryTypeName",
                     "src": "881:7:2",
@@ -2005,15 +2020,15 @@
             },
             "payable": false,
             "returnParameters": {
-              "id": 478,
+              "id": 506,
               "nodeType": "ParameterList",
               "parameters": [
                 {
                   "constant": false,
-                  "id": 477,
+                  "id": 505,
                   "name": "",
                   "nodeType": "VariableDeclaration",
-                  "scope": 523,
+                  "scope": 551,
                   "src": "908:4:2",
                   "stateVariable": false,
                   "storageLocation": "default",
@@ -2022,7 +2037,7 @@
                     "typeString": "bool"
                   },
                   "typeName": {
-                    "id": 476,
+                    "id": 504,
                     "name": "bool",
                     "nodeType": "ElementaryTypeName",
                     "src": "908:4:2",
@@ -2037,31 +2052,31 @@
               ],
               "src": "907:6:2"
             },
-            "scope": 524,
+            "scope": 552,
             "src": "840:381:2",
             "stateMutability": "nonpayable",
             "superFunction": null,
             "visibility": "public"
           }
         ],
-        "scope": 525,
+        "scope": 553,
         "src": "103:1120:2"
       }
     ],
     "src": "0:1224:2"
   },
   "legacyAST": {
-    "absolutePath": "/Users/erickearns/Documents/repositories/erickearns/singnet-forks/alpha-blockchain/contracts/Job.sol",
+    "absolutePath": "/Users/valerio.versace/repo/SingularityNET/alpha-blockchain/contracts/Job.sol",
     "exportedSymbols": {
       "Job": [
-        524
+        552
       ]
     },
-    "id": 525,
+    "id": 553,
     "nodeType": "SourceUnit",
     "nodes": [
       {
-        "id": 380,
+        "id": 408,
         "literals": [
           "solidity",
           "^",
@@ -2074,21 +2089,21 @@
       {
         "absolutePath": "zeppelin-solidity/contracts/token/ERC20.sol",
         "file": "zeppelin-solidity/contracts/token/ERC20.sol",
-        "id": 381,
+        "id": 409,
         "nodeType": "ImportDirective",
-        "scope": 525,
-        "sourceUnit": 938,
+        "scope": 553,
+        "sourceUnit": 966,
         "src": "26:53:2",
         "symbolAliases": [],
         "unitAlias": ""
       },
       {
-        "absolutePath": "/Users/erickearns/Documents/repositories/erickearns/singnet-forks/alpha-blockchain/contracts/Agent.sol",
+        "absolutePath": "/Users/valerio.versace/repo/SingularityNET/alpha-blockchain/contracts/Agent.sol",
         "file": "./Agent.sol",
-        "id": 382,
+        "id": 410,
         "nodeType": "ImportDirective",
-        "scope": 525,
-        "sourceUnit": 325,
+        "scope": 553,
+        "sourceUnit": 350,
         "src": "80:21:2",
         "symbolAliases": [],
         "unitAlias": ""
@@ -2099,31 +2114,31 @@
         "contractKind": "contract",
         "documentation": null,
         "fullyImplemented": true,
-        "id": 524,
+        "id": 552,
         "linearizedBaseContracts": [
-          524
+          552
         ],
         "name": "Job",
         "nodeType": "ContractDefinition",
         "nodes": [
           {
             "canonicalName": "Job.JobState",
-            "id": 386,
+            "id": 414,
             "members": [
               {
-                "id": 383,
+                "id": 411,
                 "name": "PENDING",
                 "nodeType": "EnumValue",
                 "src": "146:7:2"
               },
               {
-                "id": 384,
+                "id": 412,
                 "name": "FUNDED",
                 "nodeType": "EnumValue",
                 "src": "163:6:2"
               },
               {
-                "id": 385,
+                "id": 413,
                 "name": "COMPLETED",
                 "nodeType": "EnumValue",
                 "src": "179:9:2"
@@ -2135,26 +2150,26 @@
           },
           {
             "constant": false,
-            "id": 388,
+            "id": 416,
             "name": "token",
             "nodeType": "VariableDeclaration",
-            "scope": 524,
+            "scope": 552,
             "src": "200:18:2",
             "stateVariable": true,
             "storageLocation": "default",
             "typeDescriptions": {
-              "typeIdentifier": "t_contract$_ERC20_$937",
+              "typeIdentifier": "t_contract$_ERC20_$965",
               "typeString": "contract ERC20"
             },
             "typeName": {
               "contractScope": null,
-              "id": 387,
+              "id": 415,
               "name": "ERC20",
               "nodeType": "UserDefinedTypeName",
-              "referencedDeclaration": 937,
+              "referencedDeclaration": 965,
               "src": "200:5:2",
               "typeDescriptions": {
-                "typeIdentifier": "t_contract$_ERC20_$937",
+                "typeIdentifier": "t_contract$_ERC20_$965",
                 "typeString": "contract ERC20"
               }
             },
@@ -2163,10 +2178,10 @@
           },
           {
             "constant": false,
-            "id": 390,
+            "id": 418,
             "name": "jobPrice",
             "nodeType": "VariableDeclaration",
-            "scope": 524,
+            "scope": 552,
             "src": "224:20:2",
             "stateVariable": true,
             "storageLocation": "default",
@@ -2175,7 +2190,7 @@
               "typeString": "uint256"
             },
             "typeName": {
-              "id": 389,
+              "id": 417,
               "name": "uint",
               "nodeType": "ElementaryTypeName",
               "src": "224:4:2",
@@ -2189,10 +2204,10 @@
           },
           {
             "constant": false,
-            "id": 392,
+            "id": 420,
             "name": "consumer",
             "nodeType": "VariableDeclaration",
-            "scope": 524,
+            "scope": 552,
             "src": "250:23:2",
             "stateVariable": true,
             "storageLocation": "default",
@@ -2201,7 +2216,7 @@
               "typeString": "address"
             },
             "typeName": {
-              "id": 391,
+              "id": 419,
               "name": "address",
               "nodeType": "ElementaryTypeName",
               "src": "250:7:2",
@@ -2215,26 +2230,26 @@
           },
           {
             "constant": false,
-            "id": 394,
+            "id": 422,
             "name": "agent",
             "nodeType": "VariableDeclaration",
-            "scope": 524,
+            "scope": 552,
             "src": "279:18:2",
             "stateVariable": true,
             "storageLocation": "default",
             "typeDescriptions": {
-              "typeIdentifier": "t_contract$_Agent_$324",
+              "typeIdentifier": "t_contract$_Agent_$349",
               "typeString": "contract Agent"
             },
             "typeName": {
               "contractScope": null,
-              "id": 393,
+              "id": 421,
               "name": "Agent",
               "nodeType": "UserDefinedTypeName",
-              "referencedDeclaration": 324,
+              "referencedDeclaration": 349,
               "src": "279:5:2",
               "typeDescriptions": {
-                "typeIdentifier": "t_contract$_Agent_$324",
+                "typeIdentifier": "t_contract$_Agent_$349",
                 "typeString": "contract Agent"
               }
             },
@@ -2243,26 +2258,26 @@
           },
           {
             "constant": false,
-            "id": 396,
+            "id": 424,
             "name": "state",
             "nodeType": "VariableDeclaration",
-            "scope": 524,
+            "scope": 552,
             "src": "303:21:2",
             "stateVariable": true,
             "storageLocation": "default",
             "typeDescriptions": {
-              "typeIdentifier": "t_enum$_JobState_$386",
+              "typeIdentifier": "t_enum$_JobState_$414",
               "typeString": "enum Job.JobState"
             },
             "typeName": {
               "contractScope": null,
-              "id": 395,
+              "id": 423,
               "name": "JobState",
               "nodeType": "UserDefinedTypeName",
-              "referencedDeclaration": 386,
+              "referencedDeclaration": 414,
               "src": "303:8:2",
               "typeDescriptions": {
-                "typeIdentifier": "t_enum$_JobState_$386",
+                "typeIdentifier": "t_enum$_JobState_$414",
                 "typeString": "enum Job.JobState"
               }
             },
@@ -2272,11 +2287,11 @@
           {
             "anonymous": false,
             "documentation": null,
-            "id": 398,
+            "id": 426,
             "name": "JobFunded",
             "nodeType": "EventDefinition",
             "parameters": {
-              "id": 397,
+              "id": 425,
               "nodeType": "ParameterList",
               "parameters": [],
               "src": "350:2:2"
@@ -2286,11 +2301,11 @@
           {
             "anonymous": false,
             "documentation": null,
-            "id": 400,
+            "id": 428,
             "name": "JobCompleted",
             "nodeType": "EventDefinition",
             "parameters": {
-              "id": 399,
+              "id": 427,
               "nodeType": "ParameterList",
               "parameters": [],
               "src": "376:2:2"
@@ -2299,28 +2314,28 @@
           },
           {
             "body": {
-              "id": 434,
+              "id": 462,
               "nodeType": "Block",
               "src": "437:167:2",
               "statements": [
                 {
                   "expression": {
                     "argumentTypes": null,
-                    "id": 411,
+                    "id": 439,
                     "isConstant": false,
                     "isLValue": false,
                     "isPure": false,
                     "lValueRequested": false,
                     "leftHandSide": {
                       "argumentTypes": null,
-                      "id": 407,
+                      "id": 435,
                       "name": "token",
                       "nodeType": "Identifier",
                       "overloadedDeclarations": [],
-                      "referencedDeclaration": 388,
+                      "referencedDeclaration": 416,
                       "src": "447:5:2",
                       "typeDescriptions": {
-                        "typeIdentifier": "t_contract$_ERC20_$937",
+                        "typeIdentifier": "t_contract$_ERC20_$965",
                         "typeString": "contract ERC20"
                       }
                     },
@@ -2331,11 +2346,11 @@
                       "arguments": [
                         {
                           "argumentTypes": null,
-                          "id": 409,
+                          "id": 437,
                           "name": "_token",
                           "nodeType": "Identifier",
                           "overloadedDeclarations": [],
-                          "referencedDeclaration": 402,
+                          "referencedDeclaration": 430,
                           "src": "461:6:2",
                           "typeDescriptions": {
                             "typeIdentifier": "t_address",
@@ -2350,18 +2365,18 @@
                             "typeString": "address"
                           }
                         ],
-                        "id": 408,
+                        "id": 436,
                         "name": "ERC20",
                         "nodeType": "Identifier",
                         "overloadedDeclarations": [],
-                        "referencedDeclaration": 937,
+                        "referencedDeclaration": 965,
                         "src": "455:5:2",
                         "typeDescriptions": {
-                          "typeIdentifier": "t_type$_t_contract$_ERC20_$937_$",
+                          "typeIdentifier": "t_type$_t_contract$_ERC20_$965_$",
                           "typeString": "type(contract ERC20)"
                         }
                       },
-                      "id": 410,
+                      "id": 438,
                       "isConstant": false,
                       "isLValue": false,
                       "isPure": false,
@@ -2371,35 +2386,35 @@
                       "nodeType": "FunctionCall",
                       "src": "455:13:2",
                       "typeDescriptions": {
-                        "typeIdentifier": "t_contract$_ERC20_$937",
+                        "typeIdentifier": "t_contract$_ERC20_$965",
                         "typeString": "contract ERC20"
                       }
                     },
                     "src": "447:21:2",
                     "typeDescriptions": {
-                      "typeIdentifier": "t_contract$_ERC20_$937",
+                      "typeIdentifier": "t_contract$_ERC20_$965",
                       "typeString": "contract ERC20"
                     }
                   },
-                  "id": 412,
+                  "id": 440,
                   "nodeType": "ExpressionStatement",
                   "src": "447:21:2"
                 },
                 {
                   "expression": {
                     "argumentTypes": null,
-                    "id": 415,
+                    "id": 443,
                     "isConstant": false,
                     "isLValue": false,
                     "isPure": false,
                     "lValueRequested": false,
                     "leftHandSide": {
                       "argumentTypes": null,
-                      "id": 413,
+                      "id": 441,
                       "name": "jobPrice",
                       "nodeType": "Identifier",
                       "overloadedDeclarations": [],
-                      "referencedDeclaration": 390,
+                      "referencedDeclaration": 418,
                       "src": "478:8:2",
                       "typeDescriptions": {
                         "typeIdentifier": "t_uint256",
@@ -2410,11 +2425,11 @@
                     "operator": "=",
                     "rightHandSide": {
                       "argumentTypes": null,
-                      "id": 414,
+                      "id": 442,
                       "name": "_jobPrice",
                       "nodeType": "Identifier",
                       "overloadedDeclarations": [],
-                      "referencedDeclaration": 404,
+                      "referencedDeclaration": 432,
                       "src": "489:9:2",
                       "typeDescriptions": {
                         "typeIdentifier": "t_uint256",
@@ -2427,25 +2442,25 @@
                       "typeString": "uint256"
                     }
                   },
-                  "id": 416,
+                  "id": 444,
                   "nodeType": "ExpressionStatement",
                   "src": "478:20:2"
                 },
                 {
                   "expression": {
                     "argumentTypes": null,
-                    "id": 420,
+                    "id": 448,
                     "isConstant": false,
                     "isLValue": false,
                     "isPure": false,
                     "lValueRequested": false,
                     "leftHandSide": {
                       "argumentTypes": null,
-                      "id": 417,
+                      "id": 445,
                       "name": "consumer",
                       "nodeType": "Identifier",
                       "overloadedDeclarations": [],
-                      "referencedDeclaration": 392,
+                      "referencedDeclaration": 420,
                       "src": "508:8:2",
                       "typeDescriptions": {
                         "typeIdentifier": "t_address",
@@ -2458,18 +2473,18 @@
                       "argumentTypes": null,
                       "expression": {
                         "argumentTypes": null,
-                        "id": 418,
+                        "id": 446,
                         "name": "tx",
                         "nodeType": "Identifier",
                         "overloadedDeclarations": [],
-                        "referencedDeclaration": 989,
+                        "referencedDeclaration": 1021,
                         "src": "519:2:2",
                         "typeDescriptions": {
                           "typeIdentifier": "t_magic_transaction",
                           "typeString": "tx"
                         }
                       },
-                      "id": 419,
+                      "id": 447,
                       "isConstant": false,
                       "isLValue": false,
                       "isPure": false,
@@ -2489,28 +2504,28 @@
                       "typeString": "address"
                     }
                   },
-                  "id": 421,
+                  "id": 449,
                   "nodeType": "ExpressionStatement",
                   "src": "508:20:2"
                 },
                 {
                   "expression": {
                     "argumentTypes": null,
-                    "id": 427,
+                    "id": 455,
                     "isConstant": false,
                     "isLValue": false,
                     "isPure": false,
                     "lValueRequested": false,
                     "leftHandSide": {
                       "argumentTypes": null,
-                      "id": 422,
+                      "id": 450,
                       "name": "agent",
                       "nodeType": "Identifier",
                       "overloadedDeclarations": [],
-                      "referencedDeclaration": 394,
+                      "referencedDeclaration": 422,
                       "src": "538:5:2",
                       "typeDescriptions": {
-                        "typeIdentifier": "t_contract$_Agent_$324",
+                        "typeIdentifier": "t_contract$_Agent_$349",
                         "typeString": "contract Agent"
                       }
                     },
@@ -2523,18 +2538,18 @@
                           "argumentTypes": null,
                           "expression": {
                             "argumentTypes": null,
-                            "id": 424,
+                            "id": 452,
                             "name": "msg",
                             "nodeType": "Identifier",
                             "overloadedDeclarations": [],
-                            "referencedDeclaration": 979,
+                            "referencedDeclaration": 1009,
                             "src": "552:3:2",
                             "typeDescriptions": {
                               "typeIdentifier": "t_magic_message",
                               "typeString": "msg"
                             }
                           },
-                          "id": 425,
+                          "id": 453,
                           "isConstant": false,
                           "isLValue": false,
                           "isPure": false,
@@ -2556,18 +2571,18 @@
                             "typeString": "address"
                           }
                         ],
-                        "id": 423,
+                        "id": 451,
                         "name": "Agent",
                         "nodeType": "Identifier",
                         "overloadedDeclarations": [],
-                        "referencedDeclaration": 324,
+                        "referencedDeclaration": 349,
                         "src": "546:5:2",
                         "typeDescriptions": {
-                          "typeIdentifier": "t_type$_t_contract$_Agent_$324_$",
+                          "typeIdentifier": "t_type$_t_contract$_Agent_$349_$",
                           "typeString": "type(contract Agent)"
                         }
                       },
-                      "id": 426,
+                      "id": 454,
                       "isConstant": false,
                       "isLValue": false,
                       "isPure": false,
@@ -2577,38 +2592,38 @@
                       "nodeType": "FunctionCall",
                       "src": "546:17:2",
                       "typeDescriptions": {
-                        "typeIdentifier": "t_contract$_Agent_$324",
+                        "typeIdentifier": "t_contract$_Agent_$349",
                         "typeString": "contract Agent"
                       }
                     },
                     "src": "538:25:2",
                     "typeDescriptions": {
-                      "typeIdentifier": "t_contract$_Agent_$324",
+                      "typeIdentifier": "t_contract$_Agent_$349",
                       "typeString": "contract Agent"
                     }
                   },
-                  "id": 428,
+                  "id": 456,
                   "nodeType": "ExpressionStatement",
                   "src": "538:25:2"
                 },
                 {
                   "expression": {
                     "argumentTypes": null,
-                    "id": 432,
+                    "id": 460,
                     "isConstant": false,
                     "isLValue": false,
                     "isPure": false,
                     "lValueRequested": false,
                     "leftHandSide": {
                       "argumentTypes": null,
-                      "id": 429,
+                      "id": 457,
                       "name": "state",
                       "nodeType": "Identifier",
                       "overloadedDeclarations": [],
-                      "referencedDeclaration": 396,
+                      "referencedDeclaration": 424,
                       "src": "573:5:2",
                       "typeDescriptions": {
-                        "typeIdentifier": "t_enum$_JobState_$386",
+                        "typeIdentifier": "t_enum$_JobState_$414",
                         "typeString": "enum Job.JobState"
                       }
                     },
@@ -2618,18 +2633,18 @@
                       "argumentTypes": null,
                       "expression": {
                         "argumentTypes": null,
-                        "id": 430,
+                        "id": 458,
                         "name": "JobState",
                         "nodeType": "Identifier",
                         "overloadedDeclarations": [],
-                        "referencedDeclaration": 386,
+                        "referencedDeclaration": 414,
                         "src": "581:8:2",
                         "typeDescriptions": {
-                          "typeIdentifier": "t_type$_t_enum$_JobState_$386_$",
+                          "typeIdentifier": "t_type$_t_enum$_JobState_$414_$",
                           "typeString": "type(enum Job.JobState)"
                         }
                       },
-                      "id": 431,
+                      "id": 459,
                       "isConstant": false,
                       "isLValue": false,
                       "isPure": true,
@@ -2639,24 +2654,24 @@
                       "referencedDeclaration": null,
                       "src": "581:16:2",
                       "typeDescriptions": {
-                        "typeIdentifier": "t_enum$_JobState_$386",
+                        "typeIdentifier": "t_enum$_JobState_$414",
                         "typeString": "enum Job.JobState"
                       }
                     },
                     "src": "573:24:2",
                     "typeDescriptions": {
-                      "typeIdentifier": "t_enum$_JobState_$386",
+                      "typeIdentifier": "t_enum$_JobState_$414",
                       "typeString": "enum Job.JobState"
                     }
                   },
-                  "id": 433,
+                  "id": 461,
                   "nodeType": "ExpressionStatement",
                   "src": "573:24:2"
                 }
               ]
             },
             "documentation": null,
-            "id": 435,
+            "id": 463,
             "implemented": true,
             "isConstructor": true,
             "isDeclaredConst": false,
@@ -2664,15 +2679,15 @@
             "name": "Job",
             "nodeType": "FunctionDefinition",
             "parameters": {
-              "id": 405,
+              "id": 433,
               "nodeType": "ParameterList",
               "parameters": [
                 {
                   "constant": false,
-                  "id": 402,
+                  "id": 430,
                   "name": "_token",
                   "nodeType": "VariableDeclaration",
-                  "scope": 435,
+                  "scope": 463,
                   "src": "398:14:2",
                   "stateVariable": false,
                   "storageLocation": "default",
@@ -2681,7 +2696,7 @@
                     "typeString": "address"
                   },
                   "typeName": {
-                    "id": 401,
+                    "id": 429,
                     "name": "address",
                     "nodeType": "ElementaryTypeName",
                     "src": "398:7:2",
@@ -2695,10 +2710,10 @@
                 },
                 {
                   "constant": false,
-                  "id": 404,
+                  "id": 432,
                   "name": "_jobPrice",
                   "nodeType": "VariableDeclaration",
-                  "scope": 435,
+                  "scope": 463,
                   "src": "414:14:2",
                   "stateVariable": false,
                   "storageLocation": "default",
@@ -2707,7 +2722,7 @@
                     "typeString": "uint256"
                   },
                   "typeName": {
-                    "id": 403,
+                    "id": 431,
                     "name": "uint",
                     "nodeType": "ElementaryTypeName",
                     "src": "414:4:2",
@@ -2724,12 +2739,12 @@
             },
             "payable": false,
             "returnParameters": {
-              "id": 406,
+              "id": 434,
               "nodeType": "ParameterList",
               "parameters": [],
               "src": "437:0:2"
             },
-            "scope": 524,
+            "scope": 552,
             "src": "385:219:2",
             "stateMutability": "nonpayable",
             "superFunction": null,
@@ -2737,7 +2752,7 @@
           },
           {
             "body": {
-              "id": 467,
+              "id": 495,
               "nodeType": "Block",
               "src": "636:198:2",
               "statements": [
@@ -2748,24 +2763,24 @@
                       {
                         "argumentTypes": null,
                         "commonType": {
-                          "typeIdentifier": "t_enum$_JobState_$386",
+                          "typeIdentifier": "t_enum$_JobState_$414",
                           "typeString": "enum Job.JobState"
                         },
-                        "id": 442,
+                        "id": 470,
                         "isConstant": false,
                         "isLValue": false,
                         "isPure": false,
                         "lValueRequested": false,
                         "leftExpression": {
                           "argumentTypes": null,
-                          "id": 439,
+                          "id": 467,
                           "name": "state",
                           "nodeType": "Identifier",
                           "overloadedDeclarations": [],
-                          "referencedDeclaration": 396,
+                          "referencedDeclaration": 424,
                           "src": "654:5:2",
                           "typeDescriptions": {
-                            "typeIdentifier": "t_enum$_JobState_$386",
+                            "typeIdentifier": "t_enum$_JobState_$414",
                             "typeString": "enum Job.JobState"
                           }
                         },
@@ -2775,18 +2790,18 @@
                           "argumentTypes": null,
                           "expression": {
                             "argumentTypes": null,
-                            "id": 440,
+                            "id": 468,
                             "name": "JobState",
                             "nodeType": "Identifier",
                             "overloadedDeclarations": [],
-                            "referencedDeclaration": 386,
+                            "referencedDeclaration": 414,
                             "src": "663:8:2",
                             "typeDescriptions": {
-                              "typeIdentifier": "t_type$_t_enum$_JobState_$386_$",
+                              "typeIdentifier": "t_type$_t_enum$_JobState_$414_$",
                               "typeString": "type(enum Job.JobState)"
                             }
                           },
-                          "id": 441,
+                          "id": 469,
                           "isConstant": false,
                           "isLValue": false,
                           "isPure": true,
@@ -2796,7 +2811,7 @@
                           "referencedDeclaration": null,
                           "src": "663:16:2",
                           "typeDescriptions": {
-                            "typeIdentifier": "t_enum$_JobState_$386",
+                            "typeIdentifier": "t_enum$_JobState_$414",
                             "typeString": "enum Job.JobState"
                           }
                         },
@@ -2814,18 +2829,21 @@
                           "typeString": "bool"
                         }
                       ],
-                      "id": 438,
+                      "id": 466,
                       "name": "require",
                       "nodeType": "Identifier",
-                      "overloadedDeclarations": [],
-                      "referencedDeclaration": 982,
+                      "overloadedDeclarations": [
+                        1012,
+                        1013
+                      ],
+                      "referencedDeclaration": 1012,
                       "src": "646:7:2",
                       "typeDescriptions": {
                         "typeIdentifier": "t_function_require_pure$_t_bool_$returns$__$",
                         "typeString": "function (bool) pure"
                       }
                     },
-                    "id": 443,
+                    "id": 471,
                     "isConstant": false,
                     "isLValue": false,
                     "isPure": false,
@@ -2839,7 +2857,7 @@
                       "typeString": "tuple()"
                     }
                   },
-                  "id": 444,
+                  "id": 472,
                   "nodeType": "ExpressionStatement",
                   "src": "646:34:2"
                 },
@@ -2852,11 +2870,11 @@
                         "arguments": [
                           {
                             "argumentTypes": null,
-                            "id": 448,
+                            "id": 476,
                             "name": "consumer",
                             "nodeType": "Identifier",
                             "overloadedDeclarations": [],
-                            "referencedDeclaration": 392,
+                            "referencedDeclaration": 420,
                             "src": "717:8:2",
                             "typeDescriptions": {
                               "typeIdentifier": "t_address",
@@ -2865,24 +2883,24 @@
                           },
                           {
                             "argumentTypes": null,
-                            "id": 449,
+                            "id": 477,
                             "name": "this",
                             "nodeType": "Identifier",
                             "overloadedDeclarations": [],
-                            "referencedDeclaration": 994,
+                            "referencedDeclaration": 1026,
                             "src": "727:4:2",
                             "typeDescriptions": {
-                              "typeIdentifier": "t_contract$_Job_$524",
+                              "typeIdentifier": "t_contract$_Job_$552",
                               "typeString": "contract Job"
                             }
                           },
                           {
                             "argumentTypes": null,
-                            "id": 450,
+                            "id": 478,
                             "name": "jobPrice",
                             "nodeType": "Identifier",
                             "overloadedDeclarations": [],
-                            "referencedDeclaration": 390,
+                            "referencedDeclaration": 418,
                             "src": "733:8:2",
                             "typeDescriptions": {
                               "typeIdentifier": "t_uint256",
@@ -2897,7 +2915,7 @@
                               "typeString": "address"
                             },
                             {
-                              "typeIdentifier": "t_contract$_Job_$524",
+                              "typeIdentifier": "t_contract$_Job_$552",
                               "typeString": "contract Job"
                             },
                             {
@@ -2907,32 +2925,32 @@
                           ],
                           "expression": {
                             "argumentTypes": null,
-                            "id": 446,
+                            "id": 474,
                             "name": "token",
                             "nodeType": "Identifier",
                             "overloadedDeclarations": [],
-                            "referencedDeclaration": 388,
+                            "referencedDeclaration": 416,
                             "src": "698:5:2",
                             "typeDescriptions": {
-                              "typeIdentifier": "t_contract$_ERC20_$937",
+                              "typeIdentifier": "t_contract$_ERC20_$965",
                               "typeString": "contract ERC20"
                             }
                           },
-                          "id": 447,
+                          "id": 475,
                           "isConstant": false,
                           "isLValue": false,
                           "isPure": false,
                           "lValueRequested": false,
                           "memberName": "transferFrom",
                           "nodeType": "MemberAccess",
-                          "referencedDeclaration": 919,
+                          "referencedDeclaration": 947,
                           "src": "698:18:2",
                           "typeDescriptions": {
                             "typeIdentifier": "t_function_external_nonpayable$_t_address_$_t_address_$_t_uint256_$returns$_t_bool_$",
                             "typeString": "function (address,address,uint256) external returns (bool)"
                           }
                         },
-                        "id": 451,
+                        "id": 479,
                         "isConstant": false,
                         "isLValue": false,
                         "isPure": false,
@@ -2954,18 +2972,21 @@
                           "typeString": "bool"
                         }
                       ],
-                      "id": 445,
+                      "id": 473,
                       "name": "require",
                       "nodeType": "Identifier",
-                      "overloadedDeclarations": [],
-                      "referencedDeclaration": 982,
+                      "overloadedDeclarations": [
+                        1012,
+                        1013
+                      ],
+                      "referencedDeclaration": 1012,
                       "src": "690:7:2",
                       "typeDescriptions": {
                         "typeIdentifier": "t_function_require_pure$_t_bool_$returns$__$",
                         "typeString": "function (bool) pure"
                       }
                     },
-                    "id": 452,
+                    "id": 480,
                     "isConstant": false,
                     "isLValue": false,
                     "isPure": false,
@@ -2979,7 +3000,7 @@
                       "typeString": "tuple()"
                     }
                   },
-                  "id": 453,
+                  "id": 481,
                   "nodeType": "ExpressionStatement",
                   "src": "690:53:2"
                 },
@@ -2991,32 +3012,32 @@
                       "argumentTypes": [],
                       "expression": {
                         "argumentTypes": null,
-                        "id": 454,
+                        "id": 482,
                         "name": "agent",
                         "nodeType": "Identifier",
                         "overloadedDeclarations": [],
-                        "referencedDeclaration": 394,
+                        "referencedDeclaration": 422,
                         "src": "753:5:2",
                         "typeDescriptions": {
-                          "typeIdentifier": "t_contract$_Agent_$324",
+                          "typeIdentifier": "t_contract$_Agent_$349",
                           "typeString": "contract Agent"
                         }
                       },
-                      "id": 456,
+                      "id": 484,
                       "isConstant": false,
                       "isLValue": false,
                       "isPure": false,
                       "lValueRequested": false,
                       "memberName": "fundJob",
                       "nodeType": "MemberAccess",
-                      "referencedDeclaration": 226,
+                      "referencedDeclaration": 251,
                       "src": "753:13:2",
                       "typeDescriptions": {
                         "typeIdentifier": "t_function_external_nonpayable$__$returns$__$",
                         "typeString": "function () external"
                       }
                     },
-                    "id": 457,
+                    "id": 485,
                     "isConstant": false,
                     "isLValue": false,
                     "isPure": false,
@@ -3030,28 +3051,28 @@
                       "typeString": "tuple()"
                     }
                   },
-                  "id": 458,
+                  "id": 486,
                   "nodeType": "ExpressionStatement",
                   "src": "753:15:2"
                 },
                 {
                   "expression": {
                     "argumentTypes": null,
-                    "id": 462,
+                    "id": 490,
                     "isConstant": false,
                     "isLValue": false,
                     "isPure": false,
                     "lValueRequested": false,
                     "leftHandSide": {
                       "argumentTypes": null,
-                      "id": 459,
+                      "id": 487,
                       "name": "state",
                       "nodeType": "Identifier",
                       "overloadedDeclarations": [],
-                      "referencedDeclaration": 396,
+                      "referencedDeclaration": 424,
                       "src": "778:5:2",
                       "typeDescriptions": {
-                        "typeIdentifier": "t_enum$_JobState_$386",
+                        "typeIdentifier": "t_enum$_JobState_$414",
                         "typeString": "enum Job.JobState"
                       }
                     },
@@ -3061,18 +3082,18 @@
                       "argumentTypes": null,
                       "expression": {
                         "argumentTypes": null,
-                        "id": 460,
+                        "id": 488,
                         "name": "JobState",
                         "nodeType": "Identifier",
                         "overloadedDeclarations": [],
-                        "referencedDeclaration": 386,
+                        "referencedDeclaration": 414,
                         "src": "786:8:2",
                         "typeDescriptions": {
-                          "typeIdentifier": "t_type$_t_enum$_JobState_$386_$",
+                          "typeIdentifier": "t_type$_t_enum$_JobState_$414_$",
                           "typeString": "type(enum Job.JobState)"
                         }
                       },
-                      "id": 461,
+                      "id": 489,
                       "isConstant": false,
                       "isLValue": false,
                       "isPure": true,
@@ -3082,17 +3103,17 @@
                       "referencedDeclaration": null,
                       "src": "786:15:2",
                       "typeDescriptions": {
-                        "typeIdentifier": "t_enum$_JobState_$386",
+                        "typeIdentifier": "t_enum$_JobState_$414",
                         "typeString": "enum Job.JobState"
                       }
                     },
                     "src": "778:23:2",
                     "typeDescriptions": {
-                      "typeIdentifier": "t_enum$_JobState_$386",
+                      "typeIdentifier": "t_enum$_JobState_$414",
                       "typeString": "enum Job.JobState"
                     }
                   },
-                  "id": 463,
+                  "id": 491,
                   "nodeType": "ExpressionStatement",
                   "src": "778:23:2"
                 },
@@ -3102,18 +3123,18 @@
                     "arguments": [],
                     "expression": {
                       "argumentTypes": [],
-                      "id": 464,
+                      "id": 492,
                       "name": "JobFunded",
                       "nodeType": "Identifier",
                       "overloadedDeclarations": [],
-                      "referencedDeclaration": 398,
+                      "referencedDeclaration": 426,
                       "src": "816:9:2",
                       "typeDescriptions": {
                         "typeIdentifier": "t_function_event_nonpayable$__$returns$__$",
                         "typeString": "function ()"
                       }
                     },
-                    "id": 465,
+                    "id": 493,
                     "isConstant": false,
                     "isLValue": false,
                     "isPure": false,
@@ -3127,14 +3148,14 @@
                       "typeString": "tuple()"
                     }
                   },
-                  "id": 466,
+                  "id": 494,
                   "nodeType": "EmitStatement",
                   "src": "811:16:2"
                 }
               ]
             },
             "documentation": null,
-            "id": 468,
+            "id": 496,
             "implemented": true,
             "isConstructor": false,
             "isDeclaredConst": false,
@@ -3142,19 +3163,19 @@
             "name": "fundJob",
             "nodeType": "FunctionDefinition",
             "parameters": {
-              "id": 436,
+              "id": 464,
               "nodeType": "ParameterList",
               "parameters": [],
               "src": "626:2:2"
             },
             "payable": false,
             "returnParameters": {
-              "id": 437,
+              "id": 465,
               "nodeType": "ParameterList",
               "parameters": [],
               "src": "636:0:2"
             },
-            "scope": 524,
+            "scope": 552,
             "src": "610:224:2",
             "stateMutability": "nonpayable",
             "superFunction": null,
@@ -3162,7 +3183,7 @@
           },
           {
             "body": {
-              "id": 522,
+              "id": 550,
               "nodeType": "Block",
               "src": "914:307:2",
               "statements": [
@@ -3173,24 +3194,24 @@
                       {
                         "argumentTypes": null,
                         "commonType": {
-                          "typeIdentifier": "t_enum$_JobState_$386",
+                          "typeIdentifier": "t_enum$_JobState_$414",
                           "typeString": "enum Job.JobState"
                         },
-                        "id": 483,
+                        "id": 511,
                         "isConstant": false,
                         "isLValue": false,
                         "isPure": false,
                         "lValueRequested": false,
                         "leftExpression": {
                           "argumentTypes": null,
-                          "id": 480,
+                          "id": 508,
                           "name": "state",
                           "nodeType": "Identifier",
                           "overloadedDeclarations": [],
-                          "referencedDeclaration": 396,
+                          "referencedDeclaration": 424,
                           "src": "932:5:2",
                           "typeDescriptions": {
-                            "typeIdentifier": "t_enum$_JobState_$386",
+                            "typeIdentifier": "t_enum$_JobState_$414",
                             "typeString": "enum Job.JobState"
                           }
                         },
@@ -3200,18 +3221,18 @@
                           "argumentTypes": null,
                           "expression": {
                             "argumentTypes": null,
-                            "id": 481,
+                            "id": 509,
                             "name": "JobState",
                             "nodeType": "Identifier",
                             "overloadedDeclarations": [],
-                            "referencedDeclaration": 386,
+                            "referencedDeclaration": 414,
                             "src": "941:8:2",
                             "typeDescriptions": {
-                              "typeIdentifier": "t_type$_t_enum$_JobState_$386_$",
+                              "typeIdentifier": "t_type$_t_enum$_JobState_$414_$",
                               "typeString": "type(enum Job.JobState)"
                             }
                           },
-                          "id": 482,
+                          "id": 510,
                           "isConstant": false,
                           "isLValue": false,
                           "isPure": true,
@@ -3221,7 +3242,7 @@
                           "referencedDeclaration": null,
                           "src": "941:15:2",
                           "typeDescriptions": {
-                            "typeIdentifier": "t_enum$_JobState_$386",
+                            "typeIdentifier": "t_enum$_JobState_$414",
                             "typeString": "enum Job.JobState"
                           }
                         },
@@ -3239,18 +3260,21 @@
                           "typeString": "bool"
                         }
                       ],
-                      "id": 479,
+                      "id": 507,
                       "name": "require",
                       "nodeType": "Identifier",
-                      "overloadedDeclarations": [],
-                      "referencedDeclaration": 982,
+                      "overloadedDeclarations": [
+                        1012,
+                        1013
+                      ],
+                      "referencedDeclaration": 1012,
                       "src": "924:7:2",
                       "typeDescriptions": {
                         "typeIdentifier": "t_function_require_pure$_t_bool_$returns$__$",
                         "typeString": "function (bool) pure"
                       }
                     },
-                    "id": 484,
+                    "id": 512,
                     "isConstant": false,
                     "isLValue": false,
                     "isPure": false,
@@ -3264,7 +3288,7 @@
                       "typeString": "tuple()"
                     }
                   },
-                  "id": 485,
+                  "id": 513,
                   "nodeType": "ExpressionStatement",
                   "src": "924:33:2"
                 },
@@ -3278,7 +3302,7 @@
                           "typeIdentifier": "t_address",
                           "typeString": "address"
                         },
-                        "id": 499,
+                        "id": 527,
                         "isConstant": false,
                         "isLValue": false,
                         "isPure": false,
@@ -3292,7 +3316,7 @@
                                 {
                                   "argumentTypes": null,
                                   "hexValue": "19457468657265756d205369676e6564204d6573736167653a0a3332",
-                                  "id": 489,
+                                  "id": 517,
                                   "isConstant": false,
                                   "isLValue": false,
                                   "isPure": true,
@@ -3312,14 +3336,14 @@
                                   "arguments": [
                                     {
                                       "argumentTypes": null,
-                                      "id": 491,
+                                      "id": 519,
                                       "name": "this",
                                       "nodeType": "Identifier",
                                       "overloadedDeclarations": [],
-                                      "referencedDeclaration": 994,
+                                      "referencedDeclaration": 1026,
                                       "src": "1041:4:2",
                                       "typeDescriptions": {
-                                        "typeIdentifier": "t_contract$_Job_$524",
+                                        "typeIdentifier": "t_contract$_Job_$552",
                                         "typeString": "contract Job"
                                       }
                                     }
@@ -3327,22 +3351,22 @@
                                   "expression": {
                                     "argumentTypes": [
                                       {
-                                        "typeIdentifier": "t_contract$_Job_$524",
+                                        "typeIdentifier": "t_contract$_Job_$552",
                                         "typeString": "contract Job"
                                       }
                                     ],
-                                    "id": 490,
+                                    "id": 518,
                                     "name": "keccak256",
                                     "nodeType": "Identifier",
                                     "overloadedDeclarations": [],
-                                    "referencedDeclaration": 973,
+                                    "referencedDeclaration": 1003,
                                     "src": "1031:9:2",
                                     "typeDescriptions": {
                                       "typeIdentifier": "t_function_sha3_pure$__$returns$_t_bytes32_$",
                                       "typeString": "function () pure returns (bytes32)"
                                     }
                                   },
-                                  "id": 492,
+                                  "id": 520,
                                   "isConstant": false,
                                   "isLValue": false,
                                   "isPure": false,
@@ -3368,18 +3392,18 @@
                                     "typeString": "bytes32"
                                   }
                                 ],
-                                "id": 488,
+                                "id": 516,
                                 "name": "keccak256",
                                 "nodeType": "Identifier",
                                 "overloadedDeclarations": [],
-                                "referencedDeclaration": 973,
+                                "referencedDeclaration": 1003,
                                 "src": "985:9:2",
                                 "typeDescriptions": {
                                   "typeIdentifier": "t_function_sha3_pure$__$returns$_t_bytes32_$",
                                   "typeString": "function () pure returns (bytes32)"
                                 }
                               },
-                              "id": 493,
+                              "id": 521,
                               "isConstant": false,
                               "isLValue": false,
                               "isPure": false,
@@ -3395,11 +3419,11 @@
                             },
                             {
                               "argumentTypes": null,
-                              "id": 494,
+                              "id": 522,
                               "name": "v",
                               "nodeType": "Identifier",
                               "overloadedDeclarations": [],
-                              "referencedDeclaration": 470,
+                              "referencedDeclaration": 498,
                               "src": "1049:1:2",
                               "typeDescriptions": {
                                 "typeIdentifier": "t_uint8",
@@ -3408,11 +3432,11 @@
                             },
                             {
                               "argumentTypes": null,
-                              "id": 495,
+                              "id": 523,
                               "name": "r",
                               "nodeType": "Identifier",
                               "overloadedDeclarations": [],
-                              "referencedDeclaration": 472,
+                              "referencedDeclaration": 500,
                               "src": "1052:1:2",
                               "typeDescriptions": {
                                 "typeIdentifier": "t_bytes32",
@@ -3421,11 +3445,11 @@
                             },
                             {
                               "argumentTypes": null,
-                              "id": 496,
+                              "id": 524,
                               "name": "s",
                               "nodeType": "Identifier",
                               "overloadedDeclarations": [],
-                              "referencedDeclaration": 474,
+                              "referencedDeclaration": 502,
                               "src": "1055:1:2",
                               "typeDescriptions": {
                                 "typeIdentifier": "t_bytes32",
@@ -3452,18 +3476,18 @@
                                 "typeString": "bytes32"
                               }
                             ],
-                            "id": 487,
+                            "id": 515,
                             "name": "ecrecover",
                             "nodeType": "Identifier",
                             "overloadedDeclarations": [],
-                            "referencedDeclaration": 971,
+                            "referencedDeclaration": 1001,
                             "src": "975:9:2",
                             "typeDescriptions": {
                               "typeIdentifier": "t_function_ecrecover_pure$_t_bytes32_$_t_uint8_$_t_bytes32_$_t_bytes32_$returns$_t_address_$",
                               "typeString": "function (bytes32,uint8,bytes32,bytes32) pure returns (address)"
                             }
                           },
-                          "id": 497,
+                          "id": 525,
                           "isConstant": false,
                           "isLValue": false,
                           "isPure": false,
@@ -3481,11 +3505,11 @@
                         "operator": "==",
                         "rightExpression": {
                           "argumentTypes": null,
-                          "id": 498,
+                          "id": 526,
                           "name": "consumer",
                           "nodeType": "Identifier",
                           "overloadedDeclarations": [],
-                          "referencedDeclaration": 392,
+                          "referencedDeclaration": 420,
                           "src": "1061:8:2",
                           "typeDescriptions": {
                             "typeIdentifier": "t_address",
@@ -3506,18 +3530,21 @@
                           "typeString": "bool"
                         }
                       ],
-                      "id": 486,
+                      "id": 514,
                       "name": "require",
                       "nodeType": "Identifier",
-                      "overloadedDeclarations": [],
-                      "referencedDeclaration": 982,
+                      "overloadedDeclarations": [
+                        1012,
+                        1013
+                      ],
+                      "referencedDeclaration": 1012,
                       "src": "967:7:2",
                       "typeDescriptions": {
                         "typeIdentifier": "t_function_require_pure$_t_bool_$returns$__$",
                         "typeString": "function (bool) pure"
                       }
                     },
-                    "id": 500,
+                    "id": 528,
                     "isConstant": false,
                     "isLValue": false,
                     "isPure": false,
@@ -3531,7 +3558,7 @@
                       "typeString": "tuple()"
                     }
                   },
-                  "id": 501,
+                  "id": 529,
                   "nodeType": "ExpressionStatement",
                   "src": "967:103:2"
                 },
@@ -3547,14 +3574,14 @@
                             "arguments": [
                               {
                                 "argumentTypes": null,
-                                "id": 506,
+                                "id": 534,
                                 "name": "agent",
                                 "nodeType": "Identifier",
                                 "overloadedDeclarations": [],
-                                "referencedDeclaration": 394,
+                                "referencedDeclaration": 422,
                                 "src": "1110:5:2",
                                 "typeDescriptions": {
-                                  "typeIdentifier": "t_contract$_Agent_$324",
+                                  "typeIdentifier": "t_contract$_Agent_$349",
                                   "typeString": "contract Agent"
                                 }
                               }
@@ -3562,11 +3589,11 @@
                             "expression": {
                               "argumentTypes": [
                                 {
-                                  "typeIdentifier": "t_contract$_Agent_$324",
+                                  "typeIdentifier": "t_contract$_Agent_$349",
                                   "typeString": "contract Agent"
                                 }
                               ],
-                              "id": 505,
+                              "id": 533,
                               "isConstant": false,
                               "isLValue": false,
                               "isPure": true,
@@ -3579,7 +3606,7 @@
                               },
                               "typeName": "address"
                             },
-                            "id": 507,
+                            "id": 535,
                             "isConstant": false,
                             "isLValue": false,
                             "isPure": false,
@@ -3595,11 +3622,11 @@
                           },
                           {
                             "argumentTypes": null,
-                            "id": 508,
+                            "id": 536,
                             "name": "jobPrice",
                             "nodeType": "Identifier",
                             "overloadedDeclarations": [],
-                            "referencedDeclaration": 390,
+                            "referencedDeclaration": 418,
                             "src": "1118:8:2",
                             "typeDescriptions": {
                               "typeIdentifier": "t_uint256",
@@ -3620,32 +3647,32 @@
                           ],
                           "expression": {
                             "argumentTypes": null,
-                            "id": 503,
+                            "id": 531,
                             "name": "token",
                             "nodeType": "Identifier",
                             "overloadedDeclarations": [],
-                            "referencedDeclaration": 388,
+                            "referencedDeclaration": 416,
                             "src": "1088:5:2",
                             "typeDescriptions": {
-                              "typeIdentifier": "t_contract$_ERC20_$937",
+                              "typeIdentifier": "t_contract$_ERC20_$965",
                               "typeString": "contract ERC20"
                             }
                           },
-                          "id": 504,
+                          "id": 532,
                           "isConstant": false,
                           "isLValue": false,
                           "isPure": false,
                           "lValueRequested": false,
                           "memberName": "approve",
                           "nodeType": "MemberAccess",
-                          "referencedDeclaration": 928,
+                          "referencedDeclaration": 956,
                           "src": "1088:13:2",
                           "typeDescriptions": {
                             "typeIdentifier": "t_function_external_nonpayable$_t_address_$_t_uint256_$returns$_t_bool_$",
                             "typeString": "function (address,uint256) external returns (bool)"
                           }
                         },
-                        "id": 509,
+                        "id": 537,
                         "isConstant": false,
                         "isLValue": false,
                         "isPure": false,
@@ -3667,18 +3694,21 @@
                           "typeString": "bool"
                         }
                       ],
-                      "id": 502,
+                      "id": 530,
                       "name": "require",
                       "nodeType": "Identifier",
-                      "overloadedDeclarations": [],
-                      "referencedDeclaration": 982,
+                      "overloadedDeclarations": [
+                        1012,
+                        1013
+                      ],
+                      "referencedDeclaration": 1012,
                       "src": "1080:7:2",
                       "typeDescriptions": {
                         "typeIdentifier": "t_function_require_pure$_t_bool_$returns$__$",
                         "typeString": "function (bool) pure"
                       }
                     },
-                    "id": 510,
+                    "id": 538,
                     "isConstant": false,
                     "isLValue": false,
                     "isPure": false,
@@ -3692,28 +3722,28 @@
                       "typeString": "tuple()"
                     }
                   },
-                  "id": 511,
+                  "id": 539,
                   "nodeType": "ExpressionStatement",
                   "src": "1080:48:2"
                 },
                 {
                   "expression": {
                     "argumentTypes": null,
-                    "id": 515,
+                    "id": 543,
                     "isConstant": false,
                     "isLValue": false,
                     "isPure": false,
                     "lValueRequested": false,
                     "leftHandSide": {
                       "argumentTypes": null,
-                      "id": 512,
+                      "id": 540,
                       "name": "state",
                       "nodeType": "Identifier",
                       "overloadedDeclarations": [],
-                      "referencedDeclaration": 396,
+                      "referencedDeclaration": 424,
                       "src": "1138:5:2",
                       "typeDescriptions": {
-                        "typeIdentifier": "t_enum$_JobState_$386",
+                        "typeIdentifier": "t_enum$_JobState_$414",
                         "typeString": "enum Job.JobState"
                       }
                     },
@@ -3723,18 +3753,18 @@
                       "argumentTypes": null,
                       "expression": {
                         "argumentTypes": null,
-                        "id": 513,
+                        "id": 541,
                         "name": "JobState",
                         "nodeType": "Identifier",
                         "overloadedDeclarations": [],
-                        "referencedDeclaration": 386,
+                        "referencedDeclaration": 414,
                         "src": "1146:8:2",
                         "typeDescriptions": {
-                          "typeIdentifier": "t_type$_t_enum$_JobState_$386_$",
+                          "typeIdentifier": "t_type$_t_enum$_JobState_$414_$",
                           "typeString": "type(enum Job.JobState)"
                         }
                       },
-                      "id": 514,
+                      "id": 542,
                       "isConstant": false,
                       "isLValue": false,
                       "isPure": true,
@@ -3744,17 +3774,17 @@
                       "referencedDeclaration": null,
                       "src": "1146:18:2",
                       "typeDescriptions": {
-                        "typeIdentifier": "t_enum$_JobState_$386",
+                        "typeIdentifier": "t_enum$_JobState_$414",
                         "typeString": "enum Job.JobState"
                       }
                     },
                     "src": "1138:26:2",
                     "typeDescriptions": {
-                      "typeIdentifier": "t_enum$_JobState_$386",
+                      "typeIdentifier": "t_enum$_JobState_$414",
                       "typeString": "enum Job.JobState"
                     }
                   },
-                  "id": 516,
+                  "id": 544,
                   "nodeType": "ExpressionStatement",
                   "src": "1138:26:2"
                 },
@@ -3764,18 +3794,18 @@
                     "arguments": [],
                     "expression": {
                       "argumentTypes": [],
-                      "id": 517,
+                      "id": 545,
                       "name": "JobCompleted",
                       "nodeType": "Identifier",
                       "overloadedDeclarations": [],
-                      "referencedDeclaration": 400,
+                      "referencedDeclaration": 428,
                       "src": "1179:12:2",
                       "typeDescriptions": {
                         "typeIdentifier": "t_function_event_nonpayable$__$returns$__$",
                         "typeString": "function ()"
                       }
                     },
-                    "id": 518,
+                    "id": 546,
                     "isConstant": false,
                     "isLValue": false,
                     "isPure": false,
@@ -3789,7 +3819,7 @@
                       "typeString": "tuple()"
                     }
                   },
-                  "id": 519,
+                  "id": 547,
                   "nodeType": "EmitStatement",
                   "src": "1174:19:2"
                 },
@@ -3797,7 +3827,7 @@
                   "expression": {
                     "argumentTypes": null,
                     "hexValue": "74727565",
-                    "id": 520,
+                    "id": 548,
                     "isConstant": false,
                     "isLValue": false,
                     "isPure": true,
@@ -3812,15 +3842,15 @@
                     },
                     "value": "true"
                   },
-                  "functionReturnParameters": 478,
-                  "id": 521,
+                  "functionReturnParameters": 506,
+                  "id": 549,
                   "nodeType": "Return",
                   "src": "1203:11:2"
                 }
               ]
             },
             "documentation": null,
-            "id": 523,
+            "id": 551,
             "implemented": true,
             "isConstructor": false,
             "isDeclaredConst": false,
@@ -3828,15 +3858,15 @@
             "name": "completeJob",
             "nodeType": "FunctionDefinition",
             "parameters": {
-              "id": 475,
+              "id": 503,
               "nodeType": "ParameterList",
               "parameters": [
                 {
                   "constant": false,
-                  "id": 470,
+                  "id": 498,
                   "name": "v",
                   "nodeType": "VariableDeclaration",
-                  "scope": 523,
+                  "scope": 551,
                   "src": "861:7:2",
                   "stateVariable": false,
                   "storageLocation": "default",
@@ -3845,7 +3875,7 @@
                     "typeString": "uint8"
                   },
                   "typeName": {
-                    "id": 469,
+                    "id": 497,
                     "name": "uint8",
                     "nodeType": "ElementaryTypeName",
                     "src": "861:5:2",
@@ -3859,10 +3889,10 @@
                 },
                 {
                   "constant": false,
-                  "id": 472,
+                  "id": 500,
                   "name": "r",
                   "nodeType": "VariableDeclaration",
-                  "scope": 523,
+                  "scope": 551,
                   "src": "870:9:2",
                   "stateVariable": false,
                   "storageLocation": "default",
@@ -3871,7 +3901,7 @@
                     "typeString": "bytes32"
                   },
                   "typeName": {
-                    "id": 471,
+                    "id": 499,
                     "name": "bytes32",
                     "nodeType": "ElementaryTypeName",
                     "src": "870:7:2",
@@ -3885,10 +3915,10 @@
                 },
                 {
                   "constant": false,
-                  "id": 474,
+                  "id": 502,
                   "name": "s",
                   "nodeType": "VariableDeclaration",
-                  "scope": 523,
+                  "scope": 551,
                   "src": "881:9:2",
                   "stateVariable": false,
                   "storageLocation": "default",
@@ -3897,7 +3927,7 @@
                     "typeString": "bytes32"
                   },
                   "typeName": {
-                    "id": 473,
+                    "id": 501,
                     "name": "bytes32",
                     "nodeType": "ElementaryTypeName",
                     "src": "881:7:2",
@@ -3914,15 +3944,15 @@
             },
             "payable": false,
             "returnParameters": {
-              "id": 478,
+              "id": 506,
               "nodeType": "ParameterList",
               "parameters": [
                 {
                   "constant": false,
-                  "id": 477,
+                  "id": 505,
                   "name": "",
                   "nodeType": "VariableDeclaration",
-                  "scope": 523,
+                  "scope": 551,
                   "src": "908:4:2",
                   "stateVariable": false,
                   "storageLocation": "default",
@@ -3931,7 +3961,7 @@
                     "typeString": "bool"
                   },
                   "typeName": {
-                    "id": 476,
+                    "id": 504,
                     "name": "bool",
                     "nodeType": "ElementaryTypeName",
                     "src": "908:4:2",
@@ -3946,14 +3976,14 @@
               ],
               "src": "907:6:2"
             },
-            "scope": 524,
+            "scope": 552,
             "src": "840:381:2",
             "stateMutability": "nonpayable",
             "superFunction": null,
             "visibility": "public"
           }
         ],
-        "scope": 525,
+        "scope": 553,
         "src": "103:1120:2"
       }
     ],
@@ -3961,9 +3991,9 @@
   },
   "compiler": {
     "name": "solc",
-    "version": "0.4.21+commit.dfe3193c.Emscripten.clang"
+    "version": "0.4.23+commit.124ca40d.Emscripten.clang"
   },
   "networks": {},
   "schemaVersion": "2.0.0",
-  "updatedAt": "2018-04-10T22:35:26.972Z"
+  "updatedAt": "2018-05-20T21:41:43.651Z"
 }
