@@ -15,17 +15,19 @@ contract Agent {
     mapping(address => bool) public createdJobs;
     uint public currentPrice;
     string public endpoint;
+    string public definition;
 
     event JobCreated(address job, address consumer, uint jobPrice);
     event JobFunded(address job);
     event JobCompleted(address job);
 
-    function Agent(address _token, uint _currentPrice, string _endpoint) public {
+    function Agent(address _token, uint _currentPrice, string _endpoint, string _definition) public {
         state = AgentState.ENABLED;
         owner = tx.origin;
         token = ERC20(_token);
         currentPrice = _currentPrice;
         endpoint = _endpoint;
+        definition = _definition;
     }
 
     function setPrice(uint _currentPrice) public {
@@ -36,6 +38,11 @@ contract Agent {
     function setEndpoint(string _endpoint) public {
         require(tx.origin == owner);
         endpoint = _endpoint;
+    }
+
+    function setDefinition(string _definition) public {
+      require(tx.origin == owner);
+      definition = _definition;
     }
 
     function disable() public {
