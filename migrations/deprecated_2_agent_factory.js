@@ -1,3 +1,4 @@
+/*
 let AgentFactory = artifacts.require("AgentFactory");
 let Contract = require("truffle-contract");
 let TokenJson = require("singularitynet-token-contracts/SingularityNetToken.json");
@@ -11,3 +12,4 @@ module.exports = function(deployer, network, accounts) {
         .then(() => deployer.deploy(AgentFactory, Token.address))
         .then(() => AgentFactory.deployed());
 };
+*/
