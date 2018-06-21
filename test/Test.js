@@ -22,12 +22,12 @@ contract("All", async (accounts) => {
         let owner = await agentInstance.owner.call();
         let currentPrice = await agentInstance.currentPrice.call();
         let endpoint = await agentInstance.endpoint.call();
-        let metadataUri = await agentInstance.metadataUri.call();
+        let metadataURI = await agentInstance.metadataURI.call();
         assert.equal(0, state);
         assert.equal(accounts[1], owner);
         assert.equal(8, currentPrice);
         assert.equal("http://fake.url", endpoint);
-        assert.equal("/ipfs/whatever", metadataUri);
+        assert.equal("/ipfs/whatever", metadataURI);
 
         // Register agent with name Agent1
         let registryInstance = await Registry.deployed();
@@ -71,11 +71,11 @@ contract("All", async (accounts) => {
         let updatedEndpoint = await agentInstance.endpoint.call();
         assert.equal(updatedEndpoint, newEndpoint);
 
-        // Set agent metadataUri with owner accounts[1]
-        let newMetadataUri = "/ipfs/whateverElse";
-        let setMetadataUriResult = await agentInstance.setMetadataUri.sendTransaction(newMetadataUri, {from: accounts[1]});
-        let updatedMetadataUri = await agentInstance.metadataUri.call();
-        assert.equal(updatedMetadataUri, newMetadataUri);
+        // Set agent metadataURI with owner accounts[1]
+        let newMetadataURI = "/ipfs/whateverElse";
+        let setMetadataURIResult = await agentInstance.setMetadataURI.sendTransaction(newMetadataURI, {from: accounts[1]});
+        let updatedMetadataURI = await agentInstance.metadataURI.call();
+        assert.equal(updatedMetadataURI, newMetadataURI);
 
         // Check all states
         jobPrice = await jobInstance.jobPrice.call();
