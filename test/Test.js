@@ -38,6 +38,7 @@ contract("All", async (accounts) => {
         "AgentName"       : "Mr. Smith", // name of the agent
         "AgentPrice"      : 8          , // price that agent demands for services
         "AgentUrl"        : "http://fake.url", // agent's hosted service url
+        "MetadataUri"     : "ipfs:/ipfs/whatever", // agent's metadata uri
     });
 
     const testState = Object.seal({
@@ -63,8 +64,8 @@ contract("All", async (accounts) => {
         testState.TokenInstance = Token.at(testState.TokenAddress);
     });
 
-    it(`Creates agent with owner ${testConstants.CreatorAccount}, price ${testConstants.AgentPrice}, and url ${testConstants.AgentUrl}`, async () => {
-        const createAgentResult = await testState.AgentFactoryInstance.createAgent(testConstants.AgentPrice, testConstants.AgentUrl, {from: testConstants.CreatorAccount});
+    it(`Creates agent with owner ${testConstants.CreatorAccount}, price ${testConstants.AgentPrice}, url ${testConstants.AgentUrl} and metadata ${testConstants.MetadataUri}`, async () => {
+        const createAgentResult = await testState.AgentFactoryInstance.createAgent(testConstants.AgentPrice, testConstants.AgentUrl, testConstants.MetadataUri, {from: testConstants.CreatorAccount});
         testState.AgentInstance = Agent.at(createAgentResult.logs[0].args.agent);
 
         const state        = (await testState.AgentInstance.state.call()).toNumber();
